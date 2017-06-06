@@ -1,0 +1,1457 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python3.5/site-packages/oauth2_provider/oauth2_backends.py" timestamp="1471986456017">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="196" column="77" />
+        <mark key="]" line="196" column="77" />
+        <mark key="^" line="195" column="48" />
+        <mark key="." line="196" column="77" />
+      </file>
+      <file name="/a.dummy" timestamp="1491826749463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/signup.html" timestamp="1474309594967">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="79" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/harness/settings.conf" timestamp="1469557790873">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/mock/mock.py" timestamp="1481627752421">
+        <mark key="'" line="2552" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/plivo-python/plivoxml.py" timestamp="1478090245890">
+        <mark key="'" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/payment_receipt.html" timestamp="1490184626712">
+        <mark key="'" line="68" column="70" />
+        <mark key="[" line="150" column="20" />
+        <mark key="]" line="150" column="24" />
+        <mark key="." line="150" column="24" />
+        <mark key="^" line="150" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/venv/lib/python2.7/site-packages/boto/s3/bucket.py" timestamp="1491414560632">
+        <mark key="'" line="705" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/circle.yml" timestamp="1471419984108">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/test_fraud_checks.py" timestamp="1491246992033">
+        <mark key="'" line="106" column="25" />
+        <mark key="[" line="197" column="55" />
+        <mark key="]" line="197" column="54" />
+        <mark key="." line="197" column="54" />
+        <mark key="^" line="197" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/plivo-web-flask/templates/dashboard.html" timestamp="1466673760008">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/auth/login_user.html" timestamp="1468747933764">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/signup_email_confirmation_template.txt" timestamp="1475601219823">
+        <mark key="'" line="6" column="11" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1494852606620">
+        <mark key="[" line="451" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/idp/idp/settings.py" timestamp="1466779693868">
+        <mark key="'" line="131" column="13" />
+        <mark key="[" line="127" column="62" />
+        <mark key="]" line="127" column="58" />
+        <mark key="." line="127" column="58" />
+        <mark key="^" line="127" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/oauth2_validators.py" timestamp="1469018061163">
+        <mark key="'" line="318" column="8" />
+        <mark key="[" line="376" column="45" />
+        <mark key="]" line="335" column="38" />
+        <mark key="." line="335" column="38" />
+        <mark key="^" line="335" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/user_core.py" timestamp="1477063846077">
+        <mark key="'" line="173" column="4" />
+        <mark key="[" line="85" column="100" />
+        <mark key="]" line="85" column="102" />
+        <mark key="^" line="85" column="102" />
+        <mark key="." line="85" column="102" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/helper.py" timestamp="1491293752149">
+        <mark key="'" line="91" column="35" />
+        <mark key="[" line="136" column="34" />
+        <mark key="]" line="136" column="33" />
+        <mark key="." line="136" column="33" />
+        <mark key="^" line="136" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/tests/models.py" timestamp="1477069482318">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
+        <mark key="'" line="71" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/schema/000_initial_schema.sql" timestamp="1491821304131">
+        <mark key="'" line="2082" column="35" />
+      </file>
+      <file name="$USER_HOME$/src/galactica-designs/cgrates.puml" timestamp="1476710049664">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1495037853791">
+        <mark key="'" line="754" column="47" />
+        <mark key="[" line="323" column="11" />
+        <mark key="]" line="323" column="11" />
+        <mark key="." line="323" column="11" />
+        <mark key="^" line="323" column="56" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/phone_verification_manager.py" timestamp="1474309271006">
+        <mark key="'" line="62" column="61" />
+        <mark key="[" line="175" column="110" />
+        <mark key="]" line="175" column="109" />
+        <mark key="^" line="175" column="109" />
+        <mark key="." line="175" column="109" />
+      </file>
+      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py" timestamp="1495734864301">
+        <mark key="'" line="1310" column="53" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/db_routers.py" timestamp="1493911511283">
+        <mark key="'" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/galactica-designs/company-user.puml" timestamp="1476286423303">
+        <mark key="'" line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivo-python/plivo.py" timestamp="1478097083672">
+        <mark key="'" line="126" column="41" />
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/password_reset_message.html" timestamp="1475596871296">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="8" column="71" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/tests/test_scopes.py" timestamp="1467636718659">
+        <mark key="'" line="577" column="0" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="51" />
+        <mark key="^" line="563" column="53" />
+        <mark key="." line="563" column="53" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/user_profile.html" timestamp="1474540292226">
+        <mark key="'" line="19" column="50" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="71" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/README.md" timestamp="1471462803390">
+        <mark key="'" line="22" column="44" />
+        <mark key="[" line="18" column="58" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="57" />
+        <mark key="^" line="18" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_page_recharge.html" timestamp="1495644666111">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/company_manager.py" timestamp="1476455704329">
+        <mark key="'" line="176" column="4" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="8" />
+        <mark key="." line="35" column="8" />
+        <mark key="^" line="33" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/auth/login.html" timestamp="1468839884470">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" timestamp="1496252417012">
+        <mark key="'" line="184" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/forms.py" timestamp="1476485162973">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/schema/002_push_notification_certs.sql" timestamp="1491837945146">
+        <mark key="[" line="7" column="98" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/helpers.py" timestamp="1475864933431">
+        <mark key="'" line="82" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/tests/test_user_core.py" timestamp="1477066762990">
+        <mark key="'" line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/django-reporting-ui/reporting_ui/logs_core.py" timestamp="1475513840878">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/django-reporting-ui/reporting_ui/views.py" timestamp="1475513862320">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="29" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1489413693185">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1494949576673">
+        <mark key="'" line="578" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/tests/settings.py" timestamp="1467635476620">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="127" column="26" />
+        <mark key="]" line="127" column="26" />
+        <mark key="." line="127" column="26" />
+        <mark key="^" line="127" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/invoice/plivo_invoice.py" timestamp="1486646862573">
+        <mark key="'" line="409" column="16" />
+        <mark key="[" line="565" column="33" />
+        <mark key="]" line="565" column="45" />
+        <mark key="." line="565" column="45" />
+        <mark key="^" line="565" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings/prod.py" timestamp="1476451883588">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="167" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/models/user.py" timestamp="1468591242058">
+        <mark key="'" line="26" column="36" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/forms.py" timestamp="1475600395757">
+        <mark key="'" line="130" column="41" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="151" column="87" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/harness/httplogger.py" timestamp="1469550864747">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/payments.html" timestamp="1471201343298">
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="67" column="48" />
+        <mark key="." line="67" column="48" />
+        <mark key="^" line="67" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings_files/__init__.py" timestamp="1474310146747">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/settings_files/main_settings.py.sample" timestamp="1483626875494">
+        <mark key="'" line="291" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/roles_manager.py" timestamp="1476460430311">
+        <mark key="'" line="267" column="83" />
+        <mark key="[" line="264" column="66" />
+        <mark key="]" line="264" column="76" />
+        <mark key="^" line="264" column="76" />
+        <mark key="." line="264" column="76" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/urls.py" timestamp="1474539271698">
+        <mark key="'" line="96" column="11" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/requirements.txt" timestamp="1468431429820">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/fraud_constants.py" timestamp="1495034545789">
+        <mark key="[" line="54" column="7" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/tests/settings.py" timestamp="1476264214117">
+        <mark key="'" line="204" column="5" />
+        <mark key="[" line="341" column="2" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
+        <mark key="^" line="342" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/push_notification_certs_helper.py" timestamp="1491826032468">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/signup_form.html" timestamp="1469008911308">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="73" />
+        <mark key="." line="29" column="73" />
+        <mark key="^" line="29" column="73" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/requirements/testing.txt" timestamp="1470399938412">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/django-payments-ui/payments_ui/templates/payments.html" timestamp="1475512407685">
+        <mark key="'" line="47" column="17" />
+        <mark key="[" line="37" column="98" />
+        <mark key="]" line="37" column="98" />
+        <mark key="." line="37" column="98" />
+        <mark key="^" line="37" column="97" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/test_card_verification_helper.py" timestamp="1490002101901">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/email_verification_manager.py" timestamp="1475601149455">
+        <mark key="[" line="38" column="71" />
+        <mark key="]" line="39" column="34" />
+        <mark key="^" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/requirements/development.txt" timestamp="1480496223678">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/verify_phone.html" timestamp="1474309410001">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/dashboard/views.py" timestamp="1488890347494">
+        <mark key="'" line="2562" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/index.html" timestamp="1468960009149">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/schema/000_initial_schema.sql" timestamp="1475595264588">
+        <mark key="'" line="446" column="16" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="420" column="0" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="420" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings/base.py" timestamp="1476451927670">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="140" column="40" />
+        <mark key="." line="140" column="40" />
+        <mark key="^" line="140" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/as.puml" timestamp="1470754623068">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="71" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/accounts_base.html" timestamp="1474529078134">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="288" column="7" />
+        <mark key="." line="234" column="20" />
+        <mark key="^" line="235" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/AdhocScripts/Tools/FraudPrevention/migrate.py" timestamp="1487310828911">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="26" column="122" />
+        <mark key="]" line="26" column="127" />
+        <mark key="^" line="26" column="127" />
+        <mark key="." line="26" column="127" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/signout.html" timestamp="1468960087762">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings/staging.py" timestamp="1476451748146">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="164" column="22" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/invoice/templates/billing_invoice_detail.html" timestamp="1491396445240">
+        <mark key="'" line="586" column="35" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="173" column="16" />
+        <mark key="." line="170" column="16" />
+        <mark key="^" line="170" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/signin_form.html" timestamp="1469713097123">
+        <mark key="'" line="11" column="27" />
+        <mark key="[" line="28" column="46" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/dashboard.html" timestamp="1469008653598">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/profile_form.html" timestamp="1468509557275">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/.BC.D_00f0ik/user_manager.py" timestamp="1477063789127">
+        <mark key="'" line="89" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" timestamp="1495730984499">
+        <mark key="'" line="79" column="29" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="122" column="74" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/forms.py" timestamp="1474354075399">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="180" column="33" />
+        <mark key="]" line="180" column="91" />
+        <mark key="." line="180" column="91" />
+        <mark key="^" line="180" column="91" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/ryuk/settings.py.example" timestamp="1486646915818">
+        <mark key="'" line="361" column="4" />
+        <mark key="[" line="415" column="5" />
+        <mark key="]" line="417" column="28" />
+        <mark key="^" line="417" column="28" />
+        <mark key="." line="417" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/venv/lib/python3.5/site-packages/oauth2_provider/oauth2_validators.py" timestamp="1467013356069">
+        <mark key="'" line="275" column="21" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="284" column="61" />
+        <mark key="." line="277" column="52" />
+        <mark key="^" line="277" column="52" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/manage.py" timestamp="1471462732213">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/urls.py" timestamp="1474476331580">
+        <mark key="'" line="33" column="53" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/settings/staging.py" timestamp="1480009530356">
+        <mark key="'" line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/signup_email_confirmation_template.html" timestamp="1475601197206">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" timestamp="1494252713237">
+        <mark key="'" line="326" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/django_xhtml2pdf/utils.py" timestamp="1490191682932">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/tests/test_config.py" timestamp="1470945724158">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/settings.py" timestamp="1467638109904">
+        <mark key="'" line="159" column="18" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="91" />
+        <mark key="^" line="110" column="39" />
+        <mark key="." line="110" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/views.py" timestamp="1474476398573">
+        <mark key="'" line="289" column="17" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="126" column="51" />
+        <mark key="." line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/requirements.txt" timestamp="1470399033805">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/controllers/main.py" timestamp="1471201303180">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="29" />
+        <mark key="^" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/settings.conf" timestamp="1469572970308">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/signup_email_confirmation_subject.txt" timestamp="1475506916436">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/idp/wsgi.py" timestamp="1470400025408">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/signup_manager.py" timestamp="1475928287432">
+        <mark key="'" line="183" column="7" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="45" column="39" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" timestamp="1496044568029">
+        <mark key="'" line="726" column="4" />
+        <mark key="[" line="712" column="31" />
+        <mark key="]" line="712" column="33" />
+        <mark key="^" line="712" column="33" />
+        <mark key="." line="712" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/views.py" timestamp="1490352641526">
+        <mark key="'" line="255" column="12" />
+        <mark key="[" line="109" column="39" />
+        <mark key="]" line="110" column="86" />
+        <mark key="^" line="110" column="86" />
+        <mark key="." line="110" column="86" />
+      </file>
+      <file name="$USER_HOME$/src/AdhocScripts/Tools/FraudPrevention/FraudDetectionMigrateStatus.py" timestamp="1487267269501">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings/log_formatter.py" timestamp="1475594372118">
+        <mark key="[" line="14" column="77" />
+        <mark key="]" line="14" column="79" />
+        <mark key="^" line="14" column="79" />
+        <mark key="." line="14" column="79" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/tests/test_token_caching.py" timestamp="1467646230791">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="64" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/helper.py" timestamp="1469010909551">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="80" column="69" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/views.py" timestamp="1480498310654">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/middlewares.py" timestamp="1480498250050">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/forms/LoginForm.py" timestamp="1468867231368">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/auth/_messages.html" timestamp="1468944862843">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/static/css/main.css" timestamp="1468747884518">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/phone_verification_helper.py" timestamp="1489597922916">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/models.py" timestamp="1471520145325">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="47" column="4" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/company-user.puml" timestamp="1470912451450">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="52" column="51" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/fraud_checks.py" timestamp="1490352613547">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="155" column="3" />
+        <mark key="." line="44" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/controllers/helper.py" timestamp="1470944707175">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/static/css/main.css" timestamp="1468744874911">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/productplan/tasks.py" timestamp="1491414411945">
+        <mark key="'" line="75" column="81" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/ps.puml" timestamp="1470758556067">
+        <mark key="'" line="104" column="9" />
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="13" />
+        <mark key="." line="99" column="13" />
+        <mark key="^" line="99" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/payments/templates/pdf_template.html" timestamp="1486651124802">
+        <mark key="[" line="123" column="33" />
+        <mark key="]" line="123" column="59" />
+        <mark key="." line="123" column="59" />
+        <mark key="^" line="123" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/tests/test_company_manager.py" timestamp="1476455474547">
+        <mark key="[" line="184" column="67" />
+        <mark key="]" line="203" column="98" />
+        <mark key="^" line="203" column="98" />
+        <mark key="." line="184" column="80" />
+      </file>
+      <file name="$USER_HOME$/src/plivo-python/Changelog" timestamp="1478101205794">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+        <mark key="^" line="0" column="57" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" timestamp="1491316515924">
+        <mark key="'" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/plivo-web-flask/app.py" timestamp="1466698619003">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="152" />
+        <mark key="." line="60" column="96" />
+        <mark key="^" line="60" column="96" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/requirements/development.txt" timestamp="1475608349953">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/urls.py" timestamp="1484822867818">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/phone2.py" timestamp="1493316769098">
+        <mark key="'" line="45" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" timestamp="1485169708737">
+        <mark key="'" line="171" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/requirments.txt" timestamp="1469021273058">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/caprica/templates/base.html" timestamp="1469037380388">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="/Python Console" timestamp="1495036384254">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1491292197873">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/password_reset_done.html" timestamp="1468960071855">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/galactica-designs/arch.puml" timestamp="1472145817178">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/django-payments-ui/payments_ui/urls.py" timestamp="1475512290438">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxyserver.py" timestamp="1491316613735">
+        <mark key="'" line="175" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/harness/djangoplugin.py" timestamp="1469550823025">
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="65" column="11" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+      </file>
+      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/hmac.py" timestamp="1491246109502">
+        <mark key="'" line="131" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/galactica-designs/common.puml" timestamp="1476289298571">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/settings/dev.py" timestamp="1476451616837">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="43" />
+        <mark key="." line="52" column="42" />
+        <mark key="^" line="52" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/helper.py" timestamp="1487325742108">
+        <mark key="'" line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/README.md" timestamp="1471462279262">
+        <mark key="'" line="37" column="39" />
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="60" />
+        <mark key="^" line="33" column="60" />
+        <mark key="." line="33" column="60" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/common.puml" timestamp="1470912652074">
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/models/roles.py" timestamp="1468426855377">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/form_errrors.html" timestamp="1475527359459">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/plivo-service/app.py" timestamp="1467039555059">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="64" column="36" />
+        <mark key="]" line="64" column="14" />
+        <mark key="^" line="64" column="14" />
+        <mark key="." line="64" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/auth/_macros.html" timestamp="1468944613310">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/idp/settings.py" timestamp="1470400015084">
+        <mark key="'" line="106" column="21" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/password_reset_form.html" timestamp="1469724162090">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" timestamp="1495717406583">
+        <mark key="'" line="237" column="64" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/settings/base.py" timestamp="1480496911707">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="4" />
+        <mark key="^" line="50" column="4" />
+        <mark key="." line="50" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/helpers.py" timestamp="1491315232764">
+        <mark key="'" line="168" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/helpers.py" timestamp="1472727544293">
+        <mark key="'" line="87" column="30" />
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="46" column="17" />
+        <mark key="." line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/signals.py" timestamp="1470938024060">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/signup_complete.html" timestamp="1468744827613">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/fraud_manager.py" timestamp="1475826405637">
+        <mark key="'" line="30" column="48" />
+        <mark key="[" line="111" column="9" />
+        <mark key="]" line="111" column="7" />
+        <mark key="^" line="111" column="7" />
+        <mark key="." line="111" column="7" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/tox.ini" timestamp="1474355570702">
+        <mark key="[" line="12" column="134" />
+        <mark key="]" line="12" column="141" />
+        <mark key="^" line="12" column="141" />
+        <mark key="." line="12" column="141" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python3.5/site-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py" timestamp="1472042096482">
+        <mark key="[" line="163" column="13" />
+        <mark key="]" line="163" column="29" />
+        <mark key="^" line="163" column="29" />
+        <mark key="." line="163" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" timestamp="1495043662231">
+        <mark key="'" line="117" column="52" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" timestamp="1495115814414">
+        <mark key="'" line="450" column="38" />
+        <mark key="[" line="646" column="45" />
+        <mark key="]" line="646" column="49" />
+        <mark key="^" line="646" column="49" />
+        <mark key="." line="646" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python3.5/site-packages/oauth2_provider/oauth2_validators.py" timestamp="1472060267836">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="283" column="88" />
+        <mark key="]" line="283" column="88" />
+        <mark key="." line="283" column="88" />
+        <mark key="^" line="283" column="88" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/fraud_manager.py" timestamp="1475221042513">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="103" />
+        <mark key="." line="30" column="103" />
+        <mark key="^" line="30" column="103" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1495116875384">
+        <mark key="'" line="33" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/settings.py" timestamp="1471871895177">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/user_core.py" timestamp="1474539401234">
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="36" />
+        <mark key="." line="86" column="36" />
+        <mark key="^" line="86" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/card_verification_helper.py" timestamp="1495708071035">
+        <mark key="'" line="426" column="18" />
+        <mark key="[" line="128" column="47" />
+        <mark key="]" line="128" column="52" />
+        <mark key="." line="128" column="52" />
+        <mark key="^" line="128" column="52" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/payments/helper.py" timestamp="1486651408683">
+        <mark key="'" line="376" column="14" />
+        <mark key="[" line="397" column="45" />
+        <mark key="]" line="398" column="48" />
+        <mark key="^" line="398" column="48" />
+        <mark key="." line="398" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/tox.ini" timestamp="1467382560670">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts_orig/accounts/tests/test_company_manager.py" timestamp="1476455828804">
+        <mark key="'" line="169" column="27" />
+        <mark key="[" line="169" column="70" />
+        <mark key="]" line="169" column="82" />
+        <mark key="^" line="169" column="82" />
+        <mark key="." line="169" column="82" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/test_plivo_account_helper.py" timestamp="1491294231911">
+        <mark key="[" line="53" column="67" />
+        <mark key="]" line="53" column="71" />
+        <mark key="." line="53" column="71" />
+        <mark key="^" line="53" column="71" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/harness/harness.py" timestamp="1469571967373">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/oauth2_backends.py" timestamp="1467639727354">
+        <mark key="'" line="194" column="29" />
+        <mark key="[" line="194" column="59" />
+        <mark key="]" line="194" column="97" />
+        <mark key="^" line="194" column="97" />
+        <mark key="." line="194" column="97" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/apps.py" timestamp="1471454883342">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="12" column="95" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/assets.py" timestamp="1468421563417">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/harness.py" timestamp="1470400054938">
+        <mark key="'" line="45" column="69" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="48" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1477295308918">
+        <mark key="'" line="50" column="34" />
+      </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" timestamp="1496479112790">
+        <mark key="'" line="508" column="8" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/password_reset_message.txt" timestamp="1475596867406">
+        <mark key="'" line="6" column="3" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/caprica/controllers/main.py" timestamp="1469037868043">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/QATools/requirements.txt" timestamp="1496732556985">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/email_verify.html" timestamp="1471453965671">
+        <mark key="[" line="14" column="55" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/user_core.py" timestamp="1474309086948">
+        <mark key="'" line="14" column="33" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="115" column="10" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/models.py" timestamp="1467385790715">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="74" column="50" />
+        <mark key="^" line="74" column="50" />
+        <mark key="." line="74" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/MANIFEST.in" timestamp="1474529644749">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/sso-poc/plivo-service-flask/app.py" timestamp="1466699625066">
+        <mark key="'" line="28" column="18" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/idp/urls.py" timestamp="1470147238843">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="44" column="60" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/login_manager.py" timestamp="1472061363639">
+        <mark key="'" line="99" column="25" />
+        <mark key="[" line="89" column="71" />
+        <mark key="]" line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+        <mark key="." line="90" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/plivo-python/tests.py" timestamp="1478089976734">
+        <mark key="'" line="1652" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="1636" column="97" />
+        <mark key="." line="1636" column="97" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/route_api/route.py" timestamp="1492087919842">
+        <mark key="'" line="40" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/add_numbers_to_inventory.py" timestamp="1493316535909">
+        <mark key="'" line="230" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/common_unittest_hacks.py" timestamp="1481627019890">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/caprica/templates/base.html" timestamp="1471201590489">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="182" column="67" />
+        <mark key="]" line="182" column="65" />
+        <mark key="^" line="182" column="65" />
+        <mark key="." line="182" column="65" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/tests/settings.py" timestamp="1475929030127">
+        <mark key="'" line="308" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="307" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/django/contrib/auth/views.py" timestamp="1484822319593">
+        <mark key="'" line="99" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/collect_phone.html" timestamp="1474309716066">
+        <mark key="'" line="28" column="79" />
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="30" column="63" />
+        <mark key="." line="30" column="63" />
+        <mark key="^" line="30" column="63" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/venv/lib/python2.7/site-packages/boto3/s3/transfer.py" timestamp="1491414483516">
+        <mark key="'" line="622" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python3.5/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py" timestamp="1472059168551">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="98" column="70" />
+        <mark key="]" line="98" column="76" />
+        <mark key="^" line="98" column="76" />
+        <mark key="." line="98" column="76" />
+      </file>
+      <file name="$USER_HOME$/src/AdhocScripts/Tools/FraudPrevention/models.py" timestamp="1487267578583">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="70" column="29" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/tests/test_email_verification_manager.py" timestamp="1475601369150">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="75" column="57" />
+        <mark key="]" line="75" column="73" />
+        <mark key="^" line="75" column="73" />
+        <mark key="." line="75" column="73" />
+      </file>
+      <file name="$USER_HOME$/src/QATools/README.md" timestamp="1496732500238">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/venv/lib/python3.5/site-packages/oauthlib/oauth2/rfc6749/endpoints/token.py" timestamp="1472053570586">
+        <mark key="'" line="99" column="26" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="99" column="44" />
+        <mark key="." line="96" column="13" />
+        <mark key="^" line="96" column="12" />
+      </file>
+      <file name="$USER_HOME$/src/caprica/tests/conftest.py" timestamp="1470945692967">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/accounts/templates/password_reset_complete.html" timestamp="1472044334093">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+      </file>
+      <file name="$USER_HOME$/src/django-accounts/accounts/templates/call_group.html" timestamp="1475533699707">
+        <mark key="'" line="22" column="55" />
+        <mark key="[" line="89" column="47" />
+        <mark key="]" line="89" column="76" />
+        <mark key="." line="89" column="76" />
+        <mark key="^" line="89" column="76" />
+      </file>
+      <file name="$USER_HOME$/src/ryuk/dashboard/tasks.py" timestamp="1491393586034">
+        <mark key="'" line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/push_notification_certs_manager.py" timestamp="1491830182833">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/galactica/galactica/middelwares.py" timestamp="1476451569957">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="36" column="74" />
+        <mark key="." line="34" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="248" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="252" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="257" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="577" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="588" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="639" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="681" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="753" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="817" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="1009" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4612" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4576" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2327" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="1745" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4485" column="55" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4520" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4558" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="606" column="58" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="24" column="85" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="611" column="12" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="754" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" />
+      <jump line="614" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="491" column="48" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="450" column="38" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="426" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/card_verification_helper.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" />
+      <jump line="88" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" />
+      <jump line="117" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" />
+      <jump line="4325" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4358" column="70" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4377" column="57" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4445" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4470" column="64" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4467" column="21" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4507" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4522" column="21" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4534" column="64" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4571" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4615" column="113" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4450" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4531" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4491" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4449" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4428" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4604" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4569" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4618" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2838" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3110" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3506" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4416" column="26" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4425" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4432" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4434" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4454" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4456" column="26" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="204" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="70" column="30" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="3" column="19" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="342" column="60" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="366" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="207" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="196" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="81" column="23" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" />
+      <jump line="103" column="36" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" />
+      <jump line="104" column="23" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" />
+      <jump line="166" column="12" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="99" column="16" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" />
+      <jump line="93" column="32" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" />
+      <jump line="91" column="27" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" />
+      <jump line="79" column="29" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" />
+      <jump line="264" column="55" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" />
+      <jump line="237" column="64" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="78" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="45" column="26" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="310" column="10" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="81" column="6" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="165" column="34" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="320" column="34" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="14" column="38" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="138" column="47" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="137" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="73" column="18" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" />
+      <jump line="117" column="47" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
+      <jump line="1307" column="21" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py" />
+      <jump line="1310" column="53" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py" />
+      <jump line="726" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="110" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
+      <jump line="48" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
+      <jump line="194" column="40" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
+      <jump line="184" column="55" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" />
+      <jump line="508" column="8" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVkaXM9PTIuMTAuNQo=</text>
+      </register>
+      <register name="c" type="4">
+        <text>'</text>
+      </register>
+      <register name="d" type="4">
+        <text>f:2df'</text>
+      </register>
+      <register name="*" type="4">
+        <text>'</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>parent_sid</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImZvcndhcmRfdG9fd2ViIHN1Y2Nlc3M6ICVzICVzICVzIC0gJXMiIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAlIChtZXRob2QsIHVybCwgc3RyKHBhcmFtcyksIHN0cihjb250ZW50KSkpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cmVkaXM9PTIuMTAuNQo=</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmIGdldF91cmxfY29udGFpbnNfcXM6CiAgICAgICAgIyBzdHJpcCBxcyBwYXJhbXMgZnJvbSB1cmwKICAgICAgICByZXN1bHQgPSB1cmxwYXJzZSh1cmkpCiAgICAgICAgcyA9IHJlc3VsdC5nZXR1cmwoKS5lbmNvZGUoJ3V0Zi04JykKCiAgICAgICAgIyBhcHBlbmQgdG8gcGFyYW1zCiAgICAgICAgcXMgPSByZXN1bHQucXVlcnkKICAgICAgICBwYXJhbXNfZnJvbV9xcyA9IGRpY3QocGFyc2VfcXNsKHFzKSkKICAgICAgICBwYXJhbXNfZnJvbV9xcy51cGRhdGUocGFyYW1zKQogICAgICAgIHBhcmFtcyA9IHBhcmFtc19mcm9tX3FzLmNvcHkoKQogICAgZWxzZToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25hdHVyZSA9IGNyZWF0ZV9zaWduYXR1cmUodXJsLCBwYXJhbXMsIGF1dGhfcGFzc3dvcmQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtcyA9IHBhcmFtCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gY3JlYXRlX3NpZ25hdHVyZSh1cmwsIHBhcmFtcywgYXV0aF9wYXNzd29yZCwgZ2V0X3VybF9jb250YWluc19xcykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF91cmxfY29udGFpbnNfcXMgPSBUcnVlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yaWdpbmFsX2dldF91cmxfcGFyYW1zID0gCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>parent_sid</last-search>
+      <last-offset />
+      <last-pattern>parent_sid</last-pattern>
+      <last-replace>m</last-replace>
+      <last-substitute encoding="base64">XDxjcmVhdGVfc2lnbmF0dXJlXD4=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>CHARG::</entry>
+        <entry>CHARGE::</entry>
+        <entry>account.comments =</entry>
+        <entry encoding="base64">XDxtb25rZXlcPg==</entry>
+        <entry>many</entry>
+        <entry encoding="base64">XDxzaWduYXR1cmVcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVfc2lnbmF0dXJlXD4=</entry>
+        <entry encoding="base64">XDxobmV3XD4=</entry>
+        <entry>urlen</entry>
+        <entry encoding="base64">XDxmZXRjaF9sb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxwYXJzZV9xc2xcPg==</entry>
+        <entry>server</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxkb3NlcVw+</entry>
+        <entry>regio</entry>
+        <entry>regi</entry>
+        <entry encoding="base64">XDxwcm94eWNsb3VkXD4=</entry>
+        <entry>parent_sid</entry>
+      </history-search>
+      <history-cmd>
+        <entry>reg</entry>
+        <entry>qa</entry>
+        <entry>53</entry>
+        <entry>42</entry>
+        <entry>set ic</entry>
+        <entry>q</entry>
+        <entry>92</entry>
+        <entry>204</entry>
+        <entry>123</entry>
+        <entry>366</entry>
+        <entry>95</entry>
+        <entry>41</entry>
+        <entry>129</entry>
+        <entry>jumps</entry>
+        <entry>48</entry>
+        <entry>W</entry>
+        <entry>178</entry>
+        <entry>122</entry>
+        <entry>111</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
