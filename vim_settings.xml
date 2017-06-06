@@ -530,6 +530,9 @@
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="48" />
       </file>
+      <file name="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" timestamp="1496736902882">
+        <mark key="'" line="104" column="4" />
+      </file>
       <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/settings.py" timestamp="1467638109904">
         <mark key="'" line="159" column="18" />
         <mark key="[" line="159" column="0" />
@@ -1201,21 +1204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="252" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="257" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="577" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="588" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="639" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="681" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="753" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="817" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="1009" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4612" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4576" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="2327" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="1745" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4485" column="55" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4520" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4558" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="606" column="58" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
@@ -1301,6 +1289,21 @@
       <jump line="184" column="55" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
       <jump line="71" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" />
       <jump line="508" column="8" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="34" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="40" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="41" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="45" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="46" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="53" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="54" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="70" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="71" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="75" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="76" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="85" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="86" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
+      <jump line="104" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1371,7 +1374,7 @@
       <last-replace>m</last-replace>
       <last-substitute encoding="base64">XDxjcmVhdGVfc2lnbmF0dXJlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
