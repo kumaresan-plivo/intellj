@@ -883,6 +883,12 @@
         <mark key="." line="46" column="17" />
         <mark key="^" line="46" column="17" />
       </file>
+      <file name="$USER_HOME$/src/python-plivolog/plivolog/loghelper.py" timestamp="1496761778965">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/src/galactica/accounts/signals.py" timestamp="1470938024060">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1306,8 +1312,8 @@
       <jump line="104" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVkaXM9PTIuMTAuNQo=</text>
+      <register name="&quot;" type="4">
+        <text>jsonlogger</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -1319,7 +1325,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>jsonlogger</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1328,7 +1334,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImZvcndhcmRfdG9fd2ViIHN1Y2Nlc3M6ICVzICVzICVzIC0gJXMiIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAlIChtZXRob2QsIHVybCwgc3RyKHBhcmFtcyksIHN0cihjb250ZW50KSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVkaXM9PTIuMTAuNQo=</text>
+        <text encoding="base64">ZnJvbSBweXRob25qc29ubG9nZ2VyIGltcG9ydCBqc29ubG9nZ2VyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1340,28 +1346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGdldF91cmxfY29udGFpbnNfcXM6CiAgICAgICAgIyBzdHJpcCBxcyBwYXJhbXMgZnJvbSB1cmwKICAgICAgICByZXN1bHQgPSB1cmxwYXJzZSh1cmkpCiAgICAgICAgcyA9IHJlc3VsdC5nZXR1cmwoKS5lbmNvZGUoJ3V0Zi04JykKCiAgICAgICAgIyBhcHBlbmQgdG8gcGFyYW1zCiAgICAgICAgcXMgPSByZXN1bHQucXVlcnkKICAgICAgICBwYXJhbXNfZnJvbV9xcyA9IGRpY3QocGFyc2VfcXNsKHFzKSkKICAgICAgICBwYXJhbXNfZnJvbV9xcy51cGRhdGUocGFyYW1zKQogICAgICAgIHBhcmFtcyA9IHBhcmFtc19mcm9tX3FzLmNvcHkoKQogICAgZWxzZToK</text>
+        <text encoding="base64">cmVkaXM9PTIuMTAuNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGlmIGdldF91cmxfY29udGFpbnNfcXM6CiAgICAgICAgIyBzdHJpcCBxcyBwYXJhbXMgZnJvbSB1cmwKICAgICAgICByZXN1bHQgPSB1cmxwYXJzZSh1cmkpCiAgICAgICAgcyA9IHJlc3VsdC5nZXR1cmwoKS5lbmNvZGUoJ3V0Zi04JykKCiAgICAgICAgIyBhcHBlbmQgdG8gcGFyYW1zCiAgICAgICAgcXMgPSByZXN1bHQucXVlcnkKICAgICAgICBwYXJhbXNfZnJvbV9xcyA9IGRpY3QocGFyc2VfcXNsKHFzKSkKICAgICAgICBwYXJhbXNfZnJvbV9xcy51cGRhdGUocGFyYW1zKQogICAgICAgIHBhcmFtcyA9IHBhcmFtc19mcm9tX3FzLmNvcHkoKQogICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25hdHVyZSA9IGNyZWF0ZV9zaWduYXR1cmUodXJsLCBwYXJhbXMsIGF1dGhfcGFzc3dvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtcyA9IHBhcmFtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25hdHVyZSA9IGNyZWF0ZV9zaWduYXR1cmUodXJsLCBwYXJhbXMsIGF1dGhfcGFzc3dvcmQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtcyA9IHBhcmFtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gY3JlYXRlX3NpZ25hdHVyZSh1cmwsIHBhcmFtcywgYXV0aF9wYXNzd29yZCwgZ2V0X3VybF9jb250YWluc19xcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF91cmxfY29udGFpbnNfcXMgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmF0dXJlID0gY3JlYXRlX3NpZ25hdHVyZSh1cmwsIHBhcmFtcywgYXV0aF9wYXNzd29yZCwgZ2V0X3VybF9jb250YWluc19xcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yaWdpbmFsX2dldF91cmxfcGFyYW1zID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldF91cmxfY29udGFpbnNfcXMgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1415,11 +1421,11 @@
         <entry>129</entry>
         <entry>jumps</entry>
         <entry>48</entry>
-        <entry>W</entry>
         <entry>178</entry>
         <entry>122</entry>
         <entry>111</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
