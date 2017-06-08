@@ -1357,7 +1357,7 @@
         <text encoding="base64">IGFjdG9yX2lkPSJNQVhYWFhYWFhYWFgiLA==</text>
       </register>
       <register name="/" type="4">
-        <text>is_val</text>
+        <text>region_from</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0b3I6ICBVbmlxdWUgSWQoYXV0aCBJZC9hY2NvdW50IElkKSBvZiB0aGUgYWN0b3IgcGVyZm9ybWluZyB0aGUgYWN0aW9uCiAgICAgICAgOnBhcmFtIGFjdGlvbjogS2V5d29yZCBieSB3aGljaCB0aGlzIGFjdGlvbiBjYW4gYmUgZmlsdGVyZWQuIE5vdGU6IFRoaXMgaXMgc2hvdWxkIGJlIGZpbHRlcmFibGUgc3RyaW5nCiAgICAgICAgOnBhcmFtIGFjdG9yX3R5cGU6IEZpbHRlcmFibGUga2V5d29yZCBmb3IgYWN0b3IgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIHN1YmplY3Q6IFVuaXF1ZSBJZChhdXRoIElkL251bWJlcikgb24gd2hvbSB0aGUgYWN0aW9uIGlzIGJlaW5nIHBlcmZvcm1lZCBvbi4KICAgICAgICA6cGFyYW0gc3ViamVjdF90eXBlOiBGaWx0ZXJhYmxlIGtleXdvcmQgZm9yIHN1YmplY3QgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIG1lc3NhZ2U6IE1lc3NhZ2UgZm9yIHRoZSBhY3Rpb24KICAgICAgICA6cGFyYW0gY29ycmVsYXRpb25faWQ6IFVuaXF1ZSBpZGVudGlmaWNhdGlvbiB3aGljaCBjYW4gYmUgdXNlZCB0byB0aWUgbG9ncyBhY3Jvc3MgYXBwcy4gRWcuIGFwaV9pZCBmcm9tIHBsaXZvYXBpCiAgICAgICAgOnBhcmFtIHN0YXR1czogU3VjY2Vzcy9mYWlsdXJlIG9yIG90aGVyd2lzZSBzdGF0dXMgb2YgdGhlIGFjdGlvbgogICAgICAgIDpwYXJhbSBub3RlczogQWRkaXRpb25hbCBub3RlcyBhcyBkaWN0aW9uYXJ5LiBQbGVhc2UgYmUgZ2VudGxlIQo=</text>
@@ -1411,9 +1411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_val</last-search>
+      <last-search>region_from</last-search>
       <last-offset />
-      <last-pattern>is_val</last-pattern>
+      <last-pattern>region_from</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,7 +1421,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxobmV3XD4=</entry>
         <entry>urlen</entry>
         <entry encoding="base64">XDxmZXRjaF9sb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxwYXJzZV9xc2xcPg==</entry>
@@ -1441,6 +1440,7 @@
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxhY3Rvcl9pZFw+</entry>
         <entry>is_val</entry>
+        <entry>region_from</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
