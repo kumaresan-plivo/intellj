@@ -155,7 +155,6 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/venv/lib/python2.7/site-packages/phonenumbers/geocoder.py" timestamp="1496963754414" />
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/password_reset_message.html" timestamp="1475596871296">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -277,6 +276,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="151" column="87" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" timestamp="1497072165436">
+        <mark key="'" line="334" column="4" />
       </file>
       <file name="$USER_HOME$/src/galactica/harness/httplogger.py" timestamp="1469550864747">
         <mark key="[" line="7" column="0" />
@@ -1240,7 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4325" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4358" column="70" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4377" column="57" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4445" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -1340,6 +1341,7 @@
       <jump line="1111" column="6" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="28" column="24" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
       <jump line="85" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/phone2.py" />
+      <jump line="334" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1358,7 +1360,7 @@
         <text encoding="base64">IGFjdG9yX2lkPSJNQVhYWFhYWFhYWFgiLA==</text>
       </register>
       <register name="/" type="4">
-        <text>region_from</text>
+        <text encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0b3I6ICBVbmlxdWUgSWQoYXV0aCBJZC9hY2NvdW50IElkKSBvZiB0aGUgYWN0b3IgcGVyZm9ybWluZyB0aGUgYWN0aW9uCiAgICAgICAgOnBhcmFtIGFjdGlvbjogS2V5d29yZCBieSB3aGljaCB0aGlzIGFjdGlvbiBjYW4gYmUgZmlsdGVyZWQuIE5vdGU6IFRoaXMgaXMgc2hvdWxkIGJlIGZpbHRlcmFibGUgc3RyaW5nCiAgICAgICAgOnBhcmFtIGFjdG9yX3R5cGU6IEZpbHRlcmFibGUga2V5d29yZCBmb3IgYWN0b3IgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIHN1YmplY3Q6IFVuaXF1ZSBJZChhdXRoIElkL251bWJlcikgb24gd2hvbSB0aGUgYWN0aW9uIGlzIGJlaW5nIHBlcmZvcm1lZCBvbi4KICAgICAgICA6cGFyYW0gc3ViamVjdF90eXBlOiBGaWx0ZXJhYmxlIGtleXdvcmQgZm9yIHN1YmplY3QgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIG1lc3NhZ2U6IE1lc3NhZ2UgZm9yIHRoZSBhY3Rpb24KICAgICAgICA6cGFyYW0gY29ycmVsYXRpb25faWQ6IFVuaXF1ZSBpZGVudGlmaWNhdGlvbiB3aGljaCBjYW4gYmUgdXNlZCB0byB0aWUgbG9ncyBhY3Jvc3MgYXBwcy4gRWcuIGFwaV9pZCBmcm9tIHBsaXZvYXBpCiAgICAgICAgOnBhcmFtIHN0YXR1czogU3VjY2Vzcy9mYWlsdXJlIG9yIG90aGVyd2lzZSBzdGF0dXMgb2YgdGhlIGFjdGlvbgogICAgICAgIDpwYXJhbSBub3RlczogQWRkaXRpb25hbCBub3RlcyBhcyBkaWN0aW9uYXJ5LiBQbGVhc2UgYmUgZ2VudGxlIQo=</text>
@@ -1412,9 +1414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>region_from</last-search>
+      <last-search encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</last-search>
       <last-offset />
-      <last-pattern>region_from</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,7 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>urlen</entry>
         <entry encoding="base64">XDxmZXRjaF9sb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxwYXJzZV9xc2xcPg==</entry>
         <entry>server</entry>
@@ -1442,6 +1443,7 @@
         <entry encoding="base64">XDxhY3Rvcl9pZFw+</entry>
         <entry>is_val</entry>
         <entry>region_from</entry>
+        <entry encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
