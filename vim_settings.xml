@@ -532,7 +532,7 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" timestamp="1494252713237">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" timestamp="1497366567129">
         <mark key="'" line="326" column="11" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/django_xhtml2pdf/utils.py" timestamp="1490191682932">
@@ -1215,7 +1215,6 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" timestamp="1497329967233" />
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/call_group.html" timestamp="1475533699707">
         <mark key="'" line="22" column="55" />
         <mark key="[" line="89" column="47" />
@@ -1419,7 +1418,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
