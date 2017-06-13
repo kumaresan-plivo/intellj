@@ -497,6 +497,9 @@
         <mark key="." line="180" column="91" />
         <mark key="^" line="180" column="91" />
       </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1497328816320">
+        <mark key="'" line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/src/ryuk/ryuk/settings.py.example" timestamp="1486646915818">
         <mark key="'" line="361" column="4" />
         <mark key="[" line="415" column="5" />
@@ -1242,14 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4358" column="70" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4377" column="57" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4445" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4470" column="64" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4467" column="21" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4507" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4522" column="21" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4534" column="64" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4571" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4615" column="113" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4450" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -1342,6 +1337,14 @@
       <jump line="28" column="24" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
       <jump line="85" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/phone2.py" />
       <jump line="334" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" />
+      <jump line="34" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="35" column="21" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="315" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="323" column="13" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="334" column="13" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="344" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="380" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="19" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1360,7 +1363,7 @@
         <text encoding="base64">IGFjdG9yX2lkPSJNQVhYWFhYWFhYWFgiLA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0b3I6ICBVbmlxdWUgSWQoYXV0aCBJZC9hY2NvdW50IElkKSBvZiB0aGUgYWN0b3IgcGVyZm9ybWluZyB0aGUgYWN0aW9uCiAgICAgICAgOnBhcmFtIGFjdGlvbjogS2V5d29yZCBieSB3aGljaCB0aGlzIGFjdGlvbiBjYW4gYmUgZmlsdGVyZWQuIE5vdGU6IFRoaXMgaXMgc2hvdWxkIGJlIGZpbHRlcmFibGUgc3RyaW5nCiAgICAgICAgOnBhcmFtIGFjdG9yX3R5cGU6IEZpbHRlcmFibGUga2V5d29yZCBmb3IgYWN0b3IgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIHN1YmplY3Q6IFVuaXF1ZSBJZChhdXRoIElkL251bWJlcikgb24gd2hvbSB0aGUgYWN0aW9uIGlzIGJlaW5nIHBlcmZvcm1lZCBvbi4KICAgICAgICA6cGFyYW0gc3ViamVjdF90eXBlOiBGaWx0ZXJhYmxlIGtleXdvcmQgZm9yIHN1YmplY3QgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIG1lc3NhZ2U6IE1lc3NhZ2UgZm9yIHRoZSBhY3Rpb24KICAgICAgICA6cGFyYW0gY29ycmVsYXRpb25faWQ6IFVuaXF1ZSBpZGVudGlmaWNhdGlvbiB3aGljaCBjYW4gYmUgdXNlZCB0byB0aWUgbG9ncyBhY3Jvc3MgYXBwcy4gRWcuIGFwaV9pZCBmcm9tIHBsaXZvYXBpCiAgICAgICAgOnBhcmFtIHN0YXR1czogU3VjY2Vzcy9mYWlsdXJlIG9yIG90aGVyd2lzZSBzdGF0dXMgb2YgdGhlIGFjdGlvbgogICAgICAgIDpwYXJhbSBub3RlczogQWRkaXRpb25hbCBub3RlcyBhcyBkaWN0aW9uYXJ5LiBQbGVhc2UgYmUgZ2VudGxlIQo=</text>
@@ -1414,9 +1417,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1433,7 +1436,6 @@
         <entry>regi</entry>
         <entry encoding="base64">XDxwcm94eWNsb3VkXD4=</entry>
         <entry>parent_sid</entry>
-        <entry>log</entry>
         <entry>level</entry>
         <entry>lev</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
@@ -1444,6 +1446,7 @@
         <entry>is_val</entry>
         <entry>region_from</entry>
         <entry encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
