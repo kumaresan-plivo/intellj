@@ -478,11 +478,6 @@
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/.BC.D_00f0ik/user_manager.py" timestamp="1477063789127">
         <mark key="'" line="89" column="4" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyplivo.py" timestamp="1495730984499">
-        <mark key="'" line="79" column="29" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="122" column="74" />
-      </file>
       <file name="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" timestamp="1496840586727">
         <mark key="'" line="51" column="13" />
         <mark key="[" line="107" column="45" />
@@ -1220,6 +1215,7 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="7" column="61" />
       </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" timestamp="1497329967233" />
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/call_group.html" timestamp="1475533699707">
         <mark key="'" line="22" column="55" />
         <mark key="[" line="89" column="47" />
