@@ -717,6 +717,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497440404177">
+        <mark key="'" line="74" column="32" />
+      </file>
       <file name="$USER_HOME$/src/ryuk/productplan/tasks.py" timestamp="1491414411945">
         <mark key="'" line="75" column="81" />
       </file>
@@ -1248,9 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4604" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4569" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4618" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="2838" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="3110" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="3506" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -1348,6 +1348,9 @@
       <jump line="688" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="812" column="18" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="834" column="55" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="326" column="20" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="4396" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="74" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1366,7 +1369,7 @@
         <text>https://github.com/plivo/python-plivolog/archive/master.zip`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</text>
+        <text encoding="base64">XDxsb3dfYmFsYW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBPcHRpb25hbCAtIGlmIHlvdSB3YW50IHRvIGN1c3RvbWl6ZSBzeXMgbG9nZ2luZwpsb2cgPSBQbGl2b0xvZ2dlcihmYWNpbGl0eT0nbG9jYWw0JywgbGV2ZWw9bG9nZ2luZy5JTkZPKQpsb2cuZXJyb3IoIlRoaXMgbG9nIGdvZXMgdG8gc3lzbG9nIG9uIGZhY2lsaXR5IExPR19MT0NBTDQiKQo=</text>
@@ -1412,9 +1415,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</last-search>
+      <last-search encoding="base64">XDxsb3dfYmFsYW5jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb3dfYmFsYW5jZVw+</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,7 +1425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regi</entry>
         <entry encoding="base64">XDxwcm94eWNsb3VkXD4=</entry>
         <entry>parent_sid</entry>
         <entry>level</entry>
@@ -1442,6 +1444,7 @@
         <entry encoding="base64">XDxmYWNpbGl0eV9uYW1lc1w+</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</entry>
+        <entry encoding="base64">XDxsb3dfYmFsYW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
