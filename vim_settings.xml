@@ -13,6 +13,11 @@
       <file name="/a.dummy" timestamp="1496839979593">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/python-plivolog/requirements-testing.txt" timestamp="1497370584078">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/src/galactica/accounts/templates/signup.html" timestamp="1474309594967">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -131,6 +136,9 @@
         <mark key="]" line="323" column="11" />
         <mark key="." line="323" column="11" />
         <mark key="^" line="323" column="56" />
+      </file>
+      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497422967461">
+        <mark key="'" line="703" column="4" />
       </file>
       <file name="$USER_HOME$/src/galactica/accounts/phone_verification_manager.py" timestamp="1474309271006">
         <mark key="'" line="62" column="61" />
@@ -450,11 +458,11 @@
         <mark key="." line="170" column="16" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1496850444158">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="52" column="0" />
+      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1497370763675">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="$USER_HOME$/src/galactica/accounts/templates/signin_form.html" timestamp="1469713097123">
         <mark key="'" line="11" column="27" />
@@ -848,11 +856,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" timestamp="1496850316231">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="35" column="70" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+      <file name="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" timestamp="1497369989189">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="49" />
+        <mark key="." line="30" column="49" />
+        <mark key="^" line="30" column="49" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/form_errrors.html" timestamp="1475527359459">
         <mark key="[" line="0" column="0" />
@@ -968,8 +976,8 @@
         <mark key="." line="30" column="103" />
         <mark key="^" line="30" column="103" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497366699112">
-        <mark key="'" line="33" column="4" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497369748148">
+        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/caprica/caprica/settings.py" timestamp="1471871895177">
         <mark key="[" line="40" column="0" />
@@ -1240,10 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4571" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4615" column="113" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4450" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4531" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4491" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4449" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4428" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -1340,10 +1344,14 @@
       <jump line="344" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
       <jump line="380" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
       <jump line="19" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
+      <jump line="56" column="29" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
+      <jump line="740" column="26" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="703" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYWN0b3JfaWQiOiAiTUFYWFhYWFhYWFhYWFgiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>https://github.com/plivo/python-plivolog/archive/master.zip`</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -1355,16 +1363,16 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFjdG9yX2lkPSJNQVhYWFhYWFhYWFgiLA==</text>
+        <text>https://github.com/plivo/python-plivolog/archive/master.zip`</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0b3I6ICBVbmlxdWUgSWQoYXV0aCBJZC9hY2NvdW50IElkKSBvZiB0aGUgYWN0b3IgcGVyZm9ybWluZyB0aGUgYWN0aW9uCiAgICAgICAgOnBhcmFtIGFjdGlvbjogS2V5d29yZCBieSB3aGljaCB0aGlzIGFjdGlvbiBjYW4gYmUgZmlsdGVyZWQuIE5vdGU6IFRoaXMgaXMgc2hvdWxkIGJlIGZpbHRlcmFibGUgc3RyaW5nCiAgICAgICAgOnBhcmFtIGFjdG9yX3R5cGU6IEZpbHRlcmFibGUga2V5d29yZCBmb3IgYWN0b3IgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIHN1YmplY3Q6IFVuaXF1ZSBJZChhdXRoIElkL251bWJlcikgb24gd2hvbSB0aGUgYWN0aW9uIGlzIGJlaW5nIHBlcmZvcm1lZCBvbi4KICAgICAgICA6cGFyYW0gc3ViamVjdF90eXBlOiBGaWx0ZXJhYmxlIGtleXdvcmQgZm9yIHN1YmplY3QgdHlwZS4gTGlrZSBCQVRDSC9BUEkvVUkgZXRjCiAgICAgICAgOnBhcmFtIG1lc3NhZ2U6IE1lc3NhZ2UgZm9yIHRoZSBhY3Rpb24KICAgICAgICA6cGFyYW0gY29ycmVsYXRpb25faWQ6IFVuaXF1ZSBpZGVudGlmaWNhdGlvbiB3aGljaCBjYW4gYmUgdXNlZCB0byB0aWUgbG9ncyBhY3Jvc3MgYXBwcy4gRWcuIGFwaV9pZCBmcm9tIHBsaXZvYXBpCiAgICAgICAgOnBhcmFtIHN0YXR1czogU3VjY2Vzcy9mYWlsdXJlIG9yIG90aGVyd2lzZSBzdGF0dXMgb2YgdGhlIGFjdGlvbgogICAgICAgIDpwYXJhbSBub3RlczogQWRkaXRpb25hbCBub3RlcyBhcyBkaWN0aW9uYXJ5LiBQbGVhc2UgYmUgZ2VudGxlIQo=</text>
+        <text encoding="base64">IyBPcHRpb25hbCAtIGlmIHlvdSB3YW50IHRvIGN1c3RvbWl6ZSBzeXMgbG9nZ2luZwpsb2cgPSBQbGl2b0xvZ2dlcihmYWNpbGl0eT0nbG9jYWw0JywgbGV2ZWw9bG9nZ2luZy5JTkZPKQpsb2cuZXJyb3IoIlRoaXMgbG9nIGdvZXMgdG8gc3lzbG9nIG9uIGZhY2lsaXR5IExPR19MT0NBTDQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYWN0b3JfaWQiOiAiTUFYWFhYWFhYWFhYWFgiLAo=</text>
+        <text encoding="base64">CnRveAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1376,57 +1384,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">bG9nID0gUGxpdm9Mb2dnZXIoZmFjaWxpdHk9J2xvY2FsNCcsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
       </register>
-      <register name="3" type="8">
-        <text>:param
-:param
-:param
-:param
-:param
-:param
-:param
-:param
-:param</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFjdG9yX2lkICAgICAgICBzdHJpbmcgICAgICAvLyBBdXRoIElkL1VuaXF1ZSBJZCB0byBpZGVudGlmeSB0aGUgc2VydmljZS9hcHBsaWNhdGlvbiBmcm9tIHdoaWNoIHRoZSBsb2cgaXMgZ2VuZXJhdGVkCiAgICBhY3RvciAgICAgICAgICAgc3RyaW5nICAgICAgLy8gTmFtZSBvZiB0aGUgc2VydmljZS9hcHBsaWNhdGlvbiByZXByZXNlbnRpbmcgdGhlIGFjdG9ySWQKICAgIGFjdG9yVHlwZSAgICAgICBzdHJpbmcgICAgICAvLyBUeXBlIG9mIHRoZSBhY3RvcgogICAgCiAgICBhY3Rpb24gICAgICAgICAgc3RyaW5nICAgICAgLy8gQWN0aW9uIHRoYXQgdGhlIHVzZXIgaXMgcGVyZm9ybWluZy4gRWcuOiBWRVJJRllfQ1JFRElUX0NBUkQKICAgIAogICAgc3ViamVjdCAgICAgICAgIHN0cmluZyAgICAgIC8vIEF1dGggSWQvVXNlciBJZC9VbmlxdWUgSWQgdG8gaWRlbnRpZnkgdGhlIHVzZXIgcGVyZm9ybWluZyB0aGUgYWN0aW9uCglzdWJqZWN0VHlwZSAgICAgc3RyaW5nICAgICAgLy8gVHlwZSBvZiB0aGUgc3ViamVjdCBwZXJmb3JtaW5nIHRoZSBhY3Rpb24uIEVnLjogVXNlciBhY2NvdW50LCBjcm9uLXNlcnZpY2UgZXRjLgoJbWVzc2FnZSAgICAgICAgIHN0cmluZyAgICAgIC8vIExvZyBtZXNzYWdlLiBEZXNjcmlwdGlvbiBvZiB0aGUgYWN0aW9uIHBlcmZvcm1lZAoJbm90ZXMgICAgICAgICAgIGludGVyZmFjZXt9IC8vIEFueSBleHRyYSBwYXJhbWV0ZXJzIHRoYXQgbWlnaHQgYmUgdXNlZnVsIGZvciBhbmFseXNpcyByZWxhdGVkIHRvIHRoZSBhY3Rpb24gcGVyZm9ybWVkLiBSZWNvbW1lbmRlZCB0byBzdG9yZSBhIGRpY3QvbWFwIHdpdGgga2V5LXZhbHVlIHBhaXJzLiAK</text>
+        <text encoding="base64">bG9nLmVycm9yKCJUaGlzIGxvZyBnb2VzIHRvIGJvdGggc3lzbG9nIGFuZCBmaWxlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FjdG9yX2lkJzogYWN0b3JfaWQsCg==</text>
+        <text encoding="base64">cGxpdm9sb2cuaW5pdChsb2dmaWxlPScvdmFyL2xvZy9wbGl2by5sb2cnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYWN0b3I6IEFjdG9yIHBlcmZvcm1pbmcgdGhlIGFjdGlvbi4gQ291bGQgYmUgZW1haWwgYWRkcmVzc2VzCg==</text>
+        <text encoding="base64">ICAgICAgICBleHRyYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cnR5cGU6IG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSW0gaGVyZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChvYmplY3QsIG9iamVjdCwgb2JqZWN0LCBvYmplY3QsIG9iamVjdCwgb2JqZWN0LCBvYmplY3QsIG9iamVjdCwgb2JqZWN0LCBvYmplY3QpIC0+IG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgoKICAgIDpwYXJhbSBhY3Rvcl9pZDogCiAgICA6cGFyYW0gYWN0aW9uOiAKICAgIDpwYXJhbSBhY3RvcjogCiAgICA6cGFyYW0gYWN0b3JfdHlwZTogCiAgICA6cGFyYW0gc3ViamVjdDogCiAgICA6cGFyYW0gc3ViamVjdF90eXBlOiAKICAgIDpwYXJhbSBtZXNzYWdlOiAKICAgIDpwYXJhbSBjb3JyZWxhdGlvbl9pZDogCiAgICA6cGFyYW0gc3RhdHVzOiAKICAgIDpwYXJhbSBub3RlczogCiAgICAiIiIK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaF9sb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxwYXJzZV9xc2xcPg==</entry>
-        <entry>server</entry>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
-        <entry encoding="base64">XDxkb3NlcVw+</entry>
         <entry>regio</entry>
         <entry>regi</entry>
         <entry encoding="base64">XDxwcm94eWNsb3VkXD4=</entry>
@@ -1442,9 +1437,13 @@
         <entry>region_from</entry>
         <entry encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</entry>
         <entry>log</entry>
+        <entry>faci</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxMT0dfVVNFUlw+</entry>
+        <entry encoding="base64">XDxmYWNpbGl0eV9uYW1lc1w+</entry>
+        <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>reg</entry>
         <entry>qa</entry>
         <entry>53</entry>
         <entry>42</entry>
@@ -1463,6 +1462,7 @@
         <entry>111</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>30</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
