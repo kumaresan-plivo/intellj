@@ -137,8 +137,8 @@
         <mark key="." line="323" column="11" />
         <mark key="^" line="323" column="56" />
       </file>
-      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497422967461">
-        <mark key="'" line="703" column="4" />
+      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497431565654">
+        <mark key="'" line="834" column="55" />
       </file>
       <file name="$USER_HOME$/src/galactica/accounts/phone_verification_manager.py" timestamp="1474309271006">
         <mark key="'" line="62" column="61" />
@@ -1248,9 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4491" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4449" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4428" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4604" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4569" column="18" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="4618" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -1348,6 +1345,9 @@
       <jump line="740" column="26" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="703" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="27" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" />
+      <jump line="688" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="812" column="18" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="834" column="55" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1366,7 +1366,7 @@
         <text>https://github.com/plivo/python-plivolog/archive/master.zip`</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</text>
+        <text encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBPcHRpb25hbCAtIGlmIHlvdSB3YW50IHRvIGN1c3RvbWl6ZSBzeXMgbG9nZ2luZwpsb2cgPSBQbGl2b0xvZ2dlcihmYWNpbGl0eT0nbG9jYWw0JywgbGV2ZWw9bG9nZ2luZy5JTkZPKQpsb2cuZXJyb3IoIlRoaXMgbG9nIGdvZXMgdG8gc3lzbG9nIG9uIGZhY2lsaXR5IExPR19MT0NBTDQiKQo=</text>
@@ -1412,9 +1412,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,7 +1422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>regio</entry>
         <entry>regi</entry>
         <entry encoding="base64">XDxwcm94eWNsb3VkXD4=</entry>
         <entry>parent_sid</entry>
@@ -1442,6 +1441,7 @@
         <entry encoding="base64">XDxMT0dfVVNFUlw+</entry>
         <entry encoding="base64">XDxmYWNpbGl0eV9uYW1lc1w+</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
+        <entry encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>qa</entry>
