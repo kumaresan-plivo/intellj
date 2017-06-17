@@ -718,8 +718,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497440404177">
-        <mark key="'" line="74" column="32" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497703329024">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/ryuk/productplan/tasks.py" timestamp="1491414411945">
         <mark key="'" line="75" column="81" />
@@ -1247,8 +1247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="64" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
       <jump line="78" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
       <jump line="18" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
       <jump line="45" column="26" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
@@ -1347,6 +1345,8 @@
       <jump line="1215" column="39" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1230" column="42" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="26" column="127" filename="$USER_HOME$/src/python-plivolog/README.md" />
+      <jump line="296" column="3" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
