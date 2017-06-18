@@ -860,7 +860,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" timestamp="1497633546565" />
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/form_errrors.html" timestamp="1475527359459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -955,8 +954,8 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" timestamp="1495043662231">
         <mark key="'" line="117" column="52" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" timestamp="1495115814414">
-        <mark key="'" line="450" column="38" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" timestamp="1497768482822">
+        <mark key="'" line="667" column="8" />
         <mark key="[" line="646" column="45" />
         <mark key="]" line="646" column="49" />
         <mark key="^" line="646" column="49" />
@@ -1247,33 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="24" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="18" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="45" column="26" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="310" column="10" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="81" column="6" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="165" column="34" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="320" column="34" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="14" column="38" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="138" column="47" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="137" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="73" column="18" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" />
-      <jump line="117" column="47" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/http_tools.py" />
-      <jump line="1307" column="21" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py" />
-      <jump line="1310" column="53" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib.py" />
-      <jump line="726" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
-      <jump line="110" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
-      <jump line="48" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
-      <jump line="194" column="40" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
-      <jump line="184" column="55" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_dialcode/models.py" />
-      <jump line="71" column="4" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" />
-      <jump line="508" column="8" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
-      <jump line="27" column="31" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="34" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="40" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="41" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="45" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="46" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="53" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="54" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
@@ -1347,6 +1319,33 @@
       <jump line="26" column="127" filename="$USER_HOME$/src/python-plivolog/README.md" />
       <jump line="296" column="3" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="812" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1017" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1021" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1026" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1030" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1156" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1157" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1161" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1162" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1166" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1167" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1183" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1185" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1188" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1191" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1212" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1215" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1229" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1240" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1246" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1270" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1277" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="1287" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="516" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="595" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="620" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="667" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1365,7 +1364,7 @@
         <text>ccount_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrd2FyZ3NcPg==</text>
+        <text encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>{&quot;message&quot;: &quot;This is an error&quot;,&quot;time&quot;:&quot;2017-06-07 14:41:01.479173&quot;,&quot;level&quot;:&quot;ERROR&quot;}</text>
@@ -1407,13 +1406,13 @@
         <text encoding="base64">ICAgICAgICBwcmludCAiSW0gaGVyZSIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>651</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrd2FyZ3NcPg==</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrd2FyZ3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1421,8 +1420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>region_from</entry>
-        <entry encoding="base64">XDxnZXRfaW5ib3VuZF9yYXRlc19xdWVyeXNldFw+</entry>
         <entry>log</entry>
         <entry>faci</entry>
         <entry>init</entry>
@@ -1441,9 +1438,10 @@
         <entry>makeReco</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxrd2FyZ3NcPg==</entry>
+        <entry>error(</entry>
+        <entry encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
         <entry>53</entry>
         <entry>42</entry>
         <entry>set ic</entry>
@@ -1463,6 +1461,7 @@
         <entry>W</entry>
         <entry>30</entry>
         <entry>w</entry>
+        <entry>651</entry>
       </history-cmd>
       <history-expr />
       <history-input />
