@@ -718,8 +718,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497703329024">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497872328350">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="4851" column="99" />
+        <mark key="]" line="4851" column="99" />
+        <mark key="^" line="4851" column="106" />
+        <mark key="." line="4851" column="99" />
       </file>
       <file name="$USER_HOME$/src/ryuk/productplan/tasks.py" timestamp="1491414411945">
         <mark key="'" line="75" column="81" />
@@ -1349,7 +1353,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ccount_id</text>
+        <text>d</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -1361,7 +1365,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>ccount_id</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</text>
@@ -1406,7 +1410,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCAiSW0gaGVyZSIK</text>
       </register>
       <register name=":" type="4">
-        <text>651</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1460,8 +1464,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>30</entry>
-        <entry>w</entry>
         <entry>651</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
