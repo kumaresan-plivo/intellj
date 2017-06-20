@@ -137,8 +137,8 @@
         <mark key="." line="323" column="11" />
         <mark key="^" line="323" column="56" />
       </file>
-      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497450844129">
-        <mark key="'" line="683" column="8" />
+      <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
+        <mark key="'" line="758" column="22" />
       </file>
       <file name="$USER_HOME$/src/galactica/accounts/phone_verification_manager.py" timestamp="1474309271006">
         <mark key="'" line="62" column="61" />
@@ -1250,11 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="53" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="54" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="70" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="71" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="75" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="76" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
       <jump line="85" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
@@ -1350,6 +1345,11 @@
       <jump line="595" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="620" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="667" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="739" column="23" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="744" column="11" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="745" column="38" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="754" column="23" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="758" column="22" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1368,7 +1368,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</text>
+        <text encoding="base64">XDxhZGRyZXNzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>{&quot;message&quot;: &quot;This is an error&quot;,&quot;time&quot;:&quot;2017-06-07 14:41:01.479173&quot;,&quot;level&quot;:&quot;ERROR&quot;}</text>
@@ -1414,9 +1414,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</last-search>
+      <last-search encoding="base64">XDxhZGRyZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRyZXNzXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1424,7 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>faci</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxMT0dfVVNFUlw+</entry>
@@ -1444,6 +1443,7 @@
         <entry encoding="base64">XDxrd2FyZ3NcPg==</entry>
         <entry>error(</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</entry>
+        <entry encoding="base64">XDxhZGRyZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
