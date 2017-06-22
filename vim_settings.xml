@@ -828,6 +828,9 @@
         <mark key="^" line="65" column="11" />
         <mark key="." line="65" column="11" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" timestamp="1498059801498">
+        <mark key="'" line="359" column="19" />
+      </file>
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/hmac.py" timestamp="1491246109502">
         <mark key="'" line="131" column="65" />
       </file>
@@ -1252,25 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="76" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="85" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="86" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="104" column="4" filename="$USER_HOME$/src/QATools/Functional/Call/tests/CancelAPIValidation.robot" />
-      <jump line="7" column="16" filename="$USER_HOME$/src/python-plivolog/plivolog/loghelper.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="31" column="6" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="7" column="5" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="13" column="5" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="14" column="5" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="18" column="5" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="51" column="13" filename="$USER_HOME$/src/QATools/venv/lib/python2.7/site-packages/json_log_formatter/__init__.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="28" column="24" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="85" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/phone2.py" />
-      <jump line="334" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" />
       <jump line="34" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
       <jump line="35" column="21" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
       <jump line="315" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
@@ -1352,6 +1336,25 @@
       <jump line="745" column="38" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="754" column="23" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="758" column="22" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
+      <jump line="197" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="401" column="53" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="23" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="40" column="6" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="42" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="43" column="25" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="61" column="48" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="87" column="38" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="93" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="149" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="150" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="154" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="305" column="29" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="324" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="351" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="352" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
+      <jump line="359" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1370,7 +1373,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRyZXNzXD4=</text>
+        <text>region__</text>
       </register>
       <register name="0" type="4">
         <text>{&quot;message&quot;: &quot;This is an error&quot;,&quot;time&quot;:&quot;2017-06-07 14:41:01.479173&quot;,&quot;level&quot;:&quot;ERROR&quot;}</text>
@@ -1416,20 +1419,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRyZXNzXD4=</last-search>
+      <last-search>region__</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRyZXNzXD4=</last-pattern>
+      <last-pattern>region__</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>faci</entry>
-        <entry>init</entry>
-        <entry encoding="base64">XDxMT0dfVVNFUlw+</entry>
-        <entry encoding="base64">XDxmYWNpbGl0eV9uYW1lc1w+</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</entry>
         <entry encoding="base64">XDxsb3dfYmFsYW5jZVw+</entry>
@@ -1446,6 +1445,10 @@
         <entry>error(</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2hhcmdlX2ZhaWx1cmVcPg==</entry>
         <entry encoding="base64">XDxhZGRyZXNzXD4=</entry>
+        <entry encoding="base64">XDxwaG9uZV9udW1iZXJcPg==</entry>
+        <entry>dialco</entry>
+        <entry>region</entry>
+        <entry>region__</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
