@@ -613,8 +613,8 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" timestamp="1496044568029">
-        <mark key="'" line="726" column="4" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" timestamp="1498569745393">
+        <mark key="'" line="627" column="40" />
         <mark key="[" line="712" column="31" />
         <mark key="]" line="712" column="33" />
         <mark key="^" line="712" column="33" />
@@ -1258,22 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="21" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="315" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="323" column="13" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="334" column="13" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="344" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="380" column="17" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="19" column="31" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
-      <jump line="56" column="29" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="740" column="26" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="703" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" />
-      <jump line="688" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="812" column="18" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="834" column="55" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="326" column="20" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="4396" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="74" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="636" column="6" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="683" column="8" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
@@ -1358,6 +1342,22 @@
       <jump line="352" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="359" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="20" column="29" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
+      <jump line="1028" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="8" column="5" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="299" column="27" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="300" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="301" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="303" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="324" column="27" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="325" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="327" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="328" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="467" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="623" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="626" column="50" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="627" column="40" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1376,7 +1376,7 @@
         <text>log</text>
       </register>
       <register name="/" type="4">
-        <text>host</text>
+        <text>logg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gbGV2ZWw6IExvZyBsZXZlbC4gUmVmZXIgQHtsb2dnaW5nfQo=</text>
@@ -1422,9 +1422,9 @@
       </register>
     </registers>
     <search>
-      <last-search>host</last-search>
+      <last-search>logg</last-search>
       <last-offset />
-      <last-pattern>host</last-pattern>
+      <last-pattern>logg</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1432,8 +1432,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb3dfYmFsYW5jZVw+</entry>
-        <entry>USER</entry>
         <entry>local4</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxMb2dSZWNvcmRcPg==</entry>
@@ -1452,6 +1450,8 @@
         <entry>region__</entry>
         <entry>hostname</entry>
         <entry>host</entry>
+        <entry>hostnam</entry>
+        <entry>logg</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
