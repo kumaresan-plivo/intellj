@@ -80,8 +80,10 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1494852606620">
-        <mark key="[" line="451" column="0" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1498565642964">
+        <mark key="[" line="85" column="32" />
+        <mark key="]" line="85" column="32" />
+        <mark key="." line="85" column="32" />
       </file>
       <file name="$USER_HOME$/src/sso-poc/idp/idp/settings.py" timestamp="1466779693868">
         <mark key="'" line="131" column="13" />
@@ -827,9 +829,6 @@
         <mark key="]" line="65" column="11" />
         <mark key="^" line="65" column="11" />
         <mark key="." line="65" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" timestamp="1498563968894">
-        <mark key="'" line="359" column="19" />
       </file>
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/hmac.py" timestamp="1491246109502">
         <mark key="'" line="131" column="65" />
