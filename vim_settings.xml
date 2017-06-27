@@ -113,7 +113,6 @@
         <mark key="." line="136" column="33" />
         <mark key="^" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/zentrunk/models.py" timestamp="1498050098031" />
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/accounts/tests/models.py" timestamp="1477069482318">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
@@ -582,7 +581,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/.tox/py27-django13/lib/python2.7/site-packages/s3transfer/subscribers.py" timestamp="1498035833446" />
       <file name="$USER_HOME$/src/caprica/caprica/controllers/main.py" timestamp="1471201303180">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="98" column="29" />
@@ -868,12 +866,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" timestamp="1498564253696">
+      <file name="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" timestamp="1498569040316">
         <mark key="'" line="20" column="29" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="83" />
-        <mark key="." line="29" column="83" />
-        <mark key="^" line="29" column="83" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/form_errrors.html" timestamp="1475527359459">
         <mark key="[" line="0" column="0" />
@@ -1363,8 +1360,8 @@
       <jump line="20" column="29" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHRyYVsnaG9zdG5hbWUnXSA9ICdhcGlzZXJ2aWNlJwo=</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -1379,13 +1376,13 @@
         <text>log</text>
       </register>
       <register name="/" type="4">
-        <text>region__</text>
+        <text>host</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA6cGFyYW0gbGV2ZWw6IExvZyBsZXZlbC4gUmVmZXIgQHtsb2dnaW5nfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBleHRyYVsnaG9zdG5hbWUnXSA9ICdhcGlzZXJ2aWNlJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1397,37 +1394,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgpsb2cgPSBQbGl2b0xvZ2dlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cgpsb2cgPSBQbGl2b0xvZ2dlcigpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnRveAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nID0gUGxpdm9Mb2dnZXIoZmFjaWxpdHk9J2xvY2FsNCcsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
+        <text encoding="base64">CnRveAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bG9nID0gUGxpdm9Mb2dnZXIoZmFjaWxpdHk9J2xvY2FsNCcsIGxldmVsPWxvZ2dpbmcuSU5GTykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nLmVycm9yKCJUaGlzIGxvZyBnb2VzIHRvIGJvdGggc3lzbG9nIGFuZCBmaWxlIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGxpdm9sb2cuaW5pdChsb2dmaWxlPScvdmFyL2xvZy9wbGl2by5sb2cnKQo=</text>
+        <text encoding="base64">bG9nLmVycm9yKCJUaGlzIGxvZyBnb2VzIHRvIGJvdGggc3lzbG9nIGFuZCBmaWxlIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>region__</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>region__</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1435,8 +1432,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
-        <entry encoding="base64">XDxwcmlvcml0eV9uYW1lc1w+</entry>
         <entry encoding="base64">XDxsb3dfYmFsYW5jZVw+</entry>
         <entry>USER</entry>
         <entry>local4</entry>
@@ -1455,6 +1450,8 @@
         <entry>dialco</entry>
         <entry>region</entry>
         <entry>region__</entry>
+        <entry>hostname</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
