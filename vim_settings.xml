@@ -722,8 +722,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1497872328350">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1498654644247">
+        <mark key="'" line="1437" column="0" />
         <mark key="[" line="4851" column="99" />
         <mark key="]" line="4851" column="99" />
         <mark key="^" line="4851" column="106" />
@@ -1261,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1292" column="52" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="224" column="6" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="226" column="6" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="228" column="4" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
@@ -1361,6 +1360,7 @@
       <jump line="22" column="15" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
       <jump line="31" column="40" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
       <jump line="36" column="26" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
+      <jump line="1437" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1379,7 +1379,7 @@
         <text>logging.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZXZlbFw+</text>
+        <text>pref</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JJVElDQUwgPSA1MApGQVRBTCA9IENSSVRJQ0FMCkVSUk9SID0gNDAKV0FSTklORyA9IDMwCldBUk4gPSBXQVJOSU5HCklORk8gPSAyMApERUJVRyA9IDEwCk5PVFNFVCA9IDAK</text>
@@ -1425,9 +1425,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZXZlbFw+</last-search>
+      <last-search>pref</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZXZlbFw+</last-pattern>
+      <last-pattern>pref</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1435,7 +1435,6 @@
     </search>
     <history>
       <history-search>
-        <entry>filter</entry>
         <entry encoding="base64">XDxMb2dSZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxtYWtlTG9nUmVjb3JkXD4=</entry>
         <entry>makeRe</entry>
@@ -1455,6 +1454,7 @@
         <entry>hostnam</entry>
         <entry>logg</entry>
         <entry encoding="base64">XDxsZXZlbFw+</entry>
+        <entry>pref</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
