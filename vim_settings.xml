@@ -252,8 +252,8 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1489413693185">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1498733874024">
-        <mark key="'" line="519" column="34" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1498743793960">
+        <mark key="'" line="199" column="44" />
         <mark key="[" line="276" column="29" />
         <mark key="]" line="276" column="29" />
         <mark key="^" line="276" column="29" />
@@ -1268,7 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1194" column="38" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1198" column="8" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1199" column="33" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1201" column="37" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
@@ -1362,12 +1361,13 @@
       <jump line="354" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="368" column="30" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="385" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
-      <jump line="137" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
-      <jump line="199" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="418" column="42" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="430" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="108" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
       <jump line="519" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
+      <jump line="276" column="38" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
+      <jump line="137" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
+      <jump line="199" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1386,7 +1386,7 @@
         <text>logging.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19udW1iZXJcPg==</text>
+        <text encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JJVElDQUwgPSA1MApGQVRBTCA9IENSSVRJQ0FMCkVSUk9SID0gNDAKV0FSTklORyA9IDMwCldBUk4gPSBXQVJOSU5HCklORk8gPSAyMApERUJVRyA9IDEwCk5PVFNFVCA9IDAK</text>
@@ -1432,9 +1432,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19udW1iZXJcPg==</last-search>
+      <last-search encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19udW1iZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1452,16 +1452,16 @@
         <entry>logg</entry>
         <entry encoding="base64">XDxsZXZlbFw+</entry>
         <entry>pref</entry>
-        <entry>to_number</entry>
         <entry>plivo_to</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry>account_phon</entry>
         <entry>is_toll</entry>
         <entry>is_tollf</entry>
         <entry>is_to_to</entry>
-        <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxjbGVhbl9waG9uZV9udW1iZXJcPg==</entry>
         <entry encoding="base64">XDx0b19udW1iZXJcPg==</entry>
+        <entry>to_number</entry>
+        <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
