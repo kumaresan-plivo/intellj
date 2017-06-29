@@ -723,11 +723,10 @@
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1498654644247">
-        <mark key="'" line="1437" column="0" />
-        <mark key="[" line="4851" column="99" />
-        <mark key="]" line="4851" column="99" />
-        <mark key="^" line="4851" column="106" />
-        <mark key="." line="4851" column="99" />
+        <mark key="[" line="4869" column="99" />
+        <mark key="]" line="4869" column="99" />
+        <mark key="^" line="4869" column="106" />
+        <mark key="." line="4869" column="99" />
       </file>
       <file name="$USER_HOME$/src/ryuk/productplan/tasks.py" timestamp="1491414411945">
         <mark key="'" line="75" column="81" />
@@ -1431,7 +1430,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
