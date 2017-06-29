@@ -80,7 +80,7 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1498565642964">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1498744477473">
         <mark key="[" line="85" column="32" />
         <mark key="]" line="85" column="32" />
         <mark key="." line="85" column="32" />
@@ -252,7 +252,7 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1489413693185">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1498743793960">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1498744463152">
         <mark key="'" line="199" column="44" />
         <mark key="[" line="276" column="29" />
         <mark key="]" line="276" column="29" />
@@ -1428,7 +1428,7 @@
         <text encoding="base64">CnRveAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>280</text>
       </register>
     </registers>
     <search>
@@ -1464,8 +1464,6 @@
         <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>53</entry>
-        <entry>42</entry>
         <entry>set ic</entry>
         <entry>92</entry>
         <entry>204</entry>
@@ -1484,6 +1482,8 @@
         <entry>30</entry>
         <entry>651</entry>
         <entry>w</entry>
+        <entry>200</entry>
+        <entry>280</entry>
       </history-cmd>
       <history-expr />
       <history-input />
