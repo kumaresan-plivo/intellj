@@ -728,7 +728,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1498654644247">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1498840749678">
+        <mark key="'" line="704" column="0" />
         <mark key="[" line="4869" column="99" />
         <mark key="]" line="4869" column="99" />
         <mark key="^" line="4869" column="106" />
@@ -1263,7 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1198" column="8" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1199" column="33" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1201" column="37" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1211" column="45" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
@@ -1363,6 +1363,7 @@
       <jump line="276" column="38" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="137" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="199" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
+      <jump line="704" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1381,7 +1382,7 @@
         <text>logging.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</text>
+        <text>call_deta</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JJVElDQUwgPSA1MApGQVRBTCA9IENSSVRJQ0FMCkVSUk9SID0gNDAKV0FSTklORyA9IDMwCldBUk4gPSBXQVJOSU5HCklORk8gPSAyMApERUJVRyA9IDEwCk5PVFNFVCA9IDAK</text>
@@ -1427,9 +1428,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</last-search>
+      <last-search>call_deta</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</last-pattern>
+      <last-pattern>call_deta</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1437,7 +1438,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwaG9uZV9udW1iZXJcPg==</entry>
         <entry>dialco</entry>
         <entry>region</entry>
         <entry>region__</entry>
@@ -1457,6 +1457,7 @@
         <entry encoding="base64">XDx0b19udW1iZXJcPg==</entry>
         <entry>to_number</entry>
         <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
+        <entry>call_deta</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
