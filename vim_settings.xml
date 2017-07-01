@@ -185,6 +185,9 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="71" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/management/commands/commpeak.py" timestamp="1498909484398">
+        <mark key="'" line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/src/caprica/README.md" timestamp="1471462803390">
         <mark key="'" line="22" column="44" />
         <mark key="[" line="18" column="58" />
@@ -467,7 +470,7 @@
         <mark key="." line="170" column="16" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1498904479882">
+      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1498909466001">
         <mark key="'" line="27" column="127" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="67" column="57" />
@@ -1264,8 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1199" column="33" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
-      <jump line="1201" column="37" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1211" column="45" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1215" column="39" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
       <jump line="1230" column="42" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/__init__.py" />
@@ -1364,6 +1365,8 @@
       <jump line="137" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="199" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" />
       <jump line="704" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/management/commands/commpeak.py" />
+      <jump line="23" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/management/commands/commpeak.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1382,7 +1385,7 @@
         <text>logging.</text>
       </register>
       <register name="/" type="4">
-        <text>call_deta</text>
+        <text encoding="base64">XDxjc3ZmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bG9nLmF1ZGl0bG9nKGFjdGlvbj0iVkVSSUZZX0NDIiwgYWN0b3I9InN1cHBvcnQtdXNlckBwbGl2by5jb20iLCBhY3Rvcl90eXBlPSJBRE1JTiIsCm1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLApzdWJqZWN0PSJ1c2VyQGVtYWlsLmNvbSIsIHN1YmplY3RfdHlwZT0iVVNFUiIsCm5vdGVzPXsiY2FyZF9pZCI6ICJjYV8yMzQyMzQyMjM0In0sIHN0YXR1cz0iU1VDQ0VTUyIpCgojIGV4YW1wbGUgb2YgbG9nZ2luZyBmcm9tIGFuIGFwaQpsb2cuYXVkaXRsb2coYWN0aW9uPSJOVU1CRVJfQlVZSU5HIiwgYWN0b3I9ImFwaXVzZXJAZW1haWwuY29tIiwgYWN0b3JfdHlwZT0iQVBJIiwKbWVzc2FnZT0iQnV5aW5nIG51bWJlciIsCnN1YmplY3Q9IjE0MTU5Njc4ODg4Iiwgc3ViamVjdF90eXBlPSdOVU1CRVInLApub3Rlcz17ImNvdW50cnkiOiAiVVMiLCAicmVnaW9uIjogIkNBIn0sIHN0YXR1cz0iU1VDQ0VTUyIpCg==</text>
@@ -1428,9 +1431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>call_deta</last-search>
+      <last-search encoding="base64">XDxjc3ZmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>call_deta</last-pattern>
+      <last-pattern encoding="base64">XDxjc3ZmaWxlXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -1438,7 +1441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dialco</entry>
         <entry>region</entry>
         <entry>region__</entry>
         <entry>hostname</entry>
@@ -1458,6 +1460,7 @@
         <entry>to_number</entry>
         <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
         <entry>call_deta</entry>
+        <entry encoding="base64">XDxjc3ZmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
