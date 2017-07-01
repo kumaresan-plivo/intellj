@@ -467,10 +467,10 @@
         <mark key="." line="170" column="16" />
         <mark key="^" line="170" column="16" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1498652488962">
+      <file name="$USER_HOME$/src/python-plivolog/README.md" timestamp="1498903209489">
         <mark key="'" line="27" column="127" />
-        <mark key="[" line="37" column="52" />
-        <mark key="]" line="37" column="59" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="67" column="57" />
         <mark key="." line="37" column="59" />
         <mark key="^" line="37" column="59" />
       </file>
@@ -1367,7 +1367,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgcHl0aG9uCmZyb20gcGxpdm9sb2cucGxpdm9sb2cgaW1wb3J0IGxvZwoKIyBleGFtcGxlIG9mIGxvZ2dpbmcgYW4gaW1wb3J0YW50IHVzZXIgYWN0aW9uCmxvZy5hdWRpdGxvZyhhY3Rpb249IlZFUklGWV9DQyIsIGFjdG9yPSJ1c2VyQGVtYWlsLmNvbSIsIGFjdG9yX3R5cGU9IlVJIiwKbWVzc2FnZT0iVXNlciB2ZXJpZml5aW5nIGNyZWRpdCBjYXJkIiwKbm90ZXM9eyJjYXJkX2lkIjogImNoXzIzNDIzNDIyMzQifSwgc3RhdHVzPSJTVUNDRVNTIikKCiMgZXhhbXBsZSBvZiBsb2dnaW5nIGFuIGFkbWluIGFjdGlvbgpsb2cuYXVkaXRsb2coYWN0aW9uPSJWRVJJRllfQ0MiLCBhY3Rvcj0ic3VwcG9ydC11c2VyQHBsaXZvLmNvbSIsIGFjdG9yX3R5cGU9IkFETUlOIiwKbWVzc2FnZT0iVmVyaWZpeWluZyBjcmVkaXQgY2FyZCBmb3IgdXNlciIsCnN1YmplY3Q9InVzZXJAZW1haWwuY29tIiwgc3ViamVjdF90eXBlPSJVU0VSIiwKbm90ZXM9eyJjYXJkX2lkIjogImNhXzIzNDIzNDIyMzQifSwgc3RhdHVzPSJTVUNDRVNTIikKCiMgZXhhbXBsZSBvZiBsb2dnaW5nIGZyb20gYW4gYXBpCmxvZy5hdWRpdGxvZyhhY3Rpb249Ik5VTUJFUl9CVVlJTkciLCBhY3Rvcj0iYXBpdXNlckBlbWFpbC5jb20iLCBhY3Rvcl90eXBlPSJBUEkiLAptZXNzYWdlPSJCdXlpbmcgbnVtYmVyIiwKc3ViamVjdD0iMTQxNTk2Nzg4ODgiLCBzdWJqZWN0X3R5cGU9J05VTUJFUicsCm5vdGVzPXsiY291bnRyeSI6ICJVUyIsICJyZWdpb24iOiAiQ0EifSwgc3RhdHVzPSJTVUNDRVNTIikK</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -1385,7 +1385,7 @@
         <text>call_deta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q1JJVElDQUwgPSA1MApGQVRBTCA9IENSSVRJQ0FMCkVSUk9SID0gNDAKV0FSTklORyA9IDMwCldBUk4gPSBXQVJOSU5HCklORk8gPSAyMApERUJVRyA9IDEwCk5PVFNFVCA9IDAK</text>
+        <text encoding="base64">YGBgcHl0aG9uCmZyb20gcGxpdm9sb2cucGxpdm9sb2cgaW1wb3J0IGxvZwoKIyBleGFtcGxlIG9mIGxvZ2dpbmcgYW4gaW1wb3J0YW50IHVzZXIgYWN0aW9uCmxvZy5hdWRpdGxvZyhhY3Rpb249IlZFUklGWV9DQyIsIGFjdG9yPSJ1c2VyQGVtYWlsLmNvbSIsIGFjdG9yX3R5cGU9IlVJIiwKbWVzc2FnZT0iVXNlciB2ZXJpZml5aW5nIGNyZWRpdCBjYXJkIiwKbm90ZXM9eyJjYXJkX2lkIjogImNoXzIzNDIzNDIyMzQifSwgc3RhdHVzPSJTVUNDRVNTIikKCiMgZXhhbXBsZSBvZiBsb2dnaW5nIGFuIGFkbWluIGFjdGlvbgpsb2cuYXVkaXRsb2coYWN0aW9uPSJWRVJJRllfQ0MiLCBhY3Rvcj0ic3VwcG9ydC11c2VyQHBsaXZvLmNvbSIsIGFjdG9yX3R5cGU9IkFETUlOIiwKbWVzc2FnZT0iVmVyaWZpeWluZyBjcmVkaXQgY2FyZCBmb3IgdXNlciIsCnN1YmplY3Q9InVzZXJAZW1haWwuY29tIiwgc3ViamVjdF90eXBlPSJVU0VSIiwKbm90ZXM9eyJjYXJkX2lkIjogImNhXzIzNDIzNDIyMzQifSwgc3RhdHVzPSJTVUNDRVNTIikKCiMgZXhhbXBsZSBvZiBsb2dnaW5nIGZyb20gYW4gYXBpCmxvZy5hdWRpdGxvZyhhY3Rpb249Ik5VTUJFUl9CVVlJTkciLCBhY3Rvcj0iYXBpdXNlckBlbWFpbC5jb20iLCBhY3Rvcl90eXBlPSJBUEkiLAptZXNzYWdlPSJCdXlpbmcgbnVtYmVyIiwKc3ViamVjdD0iMTQxNTk2Nzg4ODgiLCBzdWJqZWN0X3R5cGU9J05VTUJFUicsCm5vdGVzPXsiY291bnRyeSI6ICJVUyIsICJyZWdpb24iOiAiQ0EifSwgc3RhdHVzPSJTVUNDRVNTIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
