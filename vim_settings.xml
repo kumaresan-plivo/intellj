@@ -252,7 +252,7 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1489413693185">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1498832300049">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1499173330046">
         <mark key="'" line="199" column="44" />
         <mark key="[" line="276" column="29" />
         <mark key="]" line="276" column="29" />
@@ -377,7 +377,6 @@
         <mark key="." line="37" column="98" />
         <mark key="^" line="37" column="97" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/gothamproxy.py" timestamp="1498731189450" />
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/test_card_verification_helper.py" timestamp="1490002101901">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="0" />
@@ -718,7 +717,6 @@
         <mark key="^" line="155" column="3" />
         <mark key="." line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_payment.html" timestamp="1498746698587" />
       <file name="$USER_HOME$/src/caprica/caprica/controllers/helper.py" timestamp="1470944707175">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1437,7 +1435,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
