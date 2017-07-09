@@ -720,13 +720,6 @@
         <mark key="^" line="45" column="39" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" timestamp="1499418138401">
-        <mark key="'" line="355" column="0" />
-        <mark key="[" line="712" column="31" />
-        <mark key="]" line="712" column="33" />
-        <mark key="^" line="712" column="33" />
-        <mark key="." line="712" column="33" />
-      </file>
       <file name="$USER_HOME$/src/ryuk/venv/lib/python2.7/site-packages/boto3/s3/transfer.py" timestamp="1491414483516">
         <mark key="'" line="622" column="17" />
       </file>
