@@ -296,8 +296,8 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1489413693185">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1499956237938">
+        <mark key="'" line="33" column="60" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1499352259028">
         <mark key="'" line="18" column="43" />
@@ -562,8 +562,8 @@
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1477295308918">
         <mark key="'" line="50" column="34" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" timestamp="1496479112790">
-        <mark key="'" line="508" column="8" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" timestamp="1499956178153">
+        <mark key="'" line="3027" column="41" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/templates/emails/password_reset_message.txt" timestamp="1475596867406">
         <mark key="'" line="6" column="3" />
@@ -799,8 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1030" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
-      <jump line="1156" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1157" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1161" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1162" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
@@ -899,6 +897,8 @@
       <jump line="132" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" />
       <jump line="4" column="24" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" />
       <jump line="355" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
+      <jump line="3027" column="41" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
+      <jump line="33" column="60" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -917,7 +917,7 @@
         <text>logging.</text>
       </register>
       <register name="/" type="4">
-        <text>PD</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bG9nLmF1ZGl0bG9nKGFjdGlvbj0iVkVSSUZZX0NDIiwgYWN0b3I9InN1cHBvcnQtdXNlckBwbGl2by5jb20iLCBhY3Rvcl90eXBlPSJBRE1JTiIsCm1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLApzdWJqZWN0PSJ1c2VyQGVtYWlsLmNvbSIsIHN1YmplY3RfdHlwZT0iVVNFUiIsCm5vdGVzPXsiY2FyZF9pZCI6ICJjYV8yMzQyMzQyMjM0In0sIHN0YXR1cz0iU1VDQ0VTUyIpCgojIGV4YW1wbGUgb2YgbG9nZ2luZyBmcm9tIGFuIGFwaQpsb2cuYXVkaXRsb2coYWN0aW9uPSJOVU1CRVJfQlVZSU5HIiwgYWN0b3I9ImFwaXVzZXJAZW1haWwuY29tIiwgYWN0b3JfdHlwZT0iQVBJIiwKbWVzc2FnZT0iQnV5aW5nIG51bWJlciIsCnN1YmplY3Q9IjE0MTU5Njc4ODg4Iiwgc3ViamVjdF90eXBlPSdOVU1CRVInLApub3Rlcz17ImNvdW50cnkiOiAiVVMiLCAicmVnaW9uIjogIkNBIn0sIHN0YXR1cz0iU1VDQ0VTUyIpCg==</text>
@@ -963,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PD</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern>PD</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -973,9 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hostnam</entry>
-        <entry>logg</entry>
-        <entry encoding="base64">XDxsZXZlbFw+</entry>
         <entry>pref</entry>
         <entry>plivo_to</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
@@ -993,6 +990,9 @@
         <entry>carrier_cos</entry>
         <entry>get_countr</entry>
         <entry>PD</entry>
+        <entry>Availa</entry>
+        <entry>avail</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
