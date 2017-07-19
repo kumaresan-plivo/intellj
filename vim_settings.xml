@@ -130,6 +130,12 @@
         <mark key="^" line="4869" column="106" />
         <mark key="." line="4869" column="99" />
       </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/branching.puml" timestamp="1500473383375">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
       </file>
@@ -901,8 +907,8 @@
       <jump line="33" column="60" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bG9nLmF1ZGl0bG9nKGFjdGlvbj0iVkVSSUZZX0NDIiwgYWN0b3I9InN1cHBvcnQtdXNlckBwbGl2by5jb20iLCBhY3Rvcl90eXBlPSJBRE1JTiIsCm1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLApzdWJqZWN0PSJ1c2VyQGVtYWlsLmNvbSIsIHN1YmplY3RfdHlwZT0iVVNFUiIsCm5vdGVzPXsiY2FyZF9pZCI6ICJjYV8yMzQyMzQyMjM0In0sIHN0YXR1cz0iU1VDQ0VTUyIpCgojIGV4YW1wbGUgb2YgbG9nZ2luZyBmcm9tIGFuIGFwaQpsb2cuYXVkaXRsb2coYWN0aW9uPSJOVU1CRVJfQlVZSU5HIiwgYWN0b3I9ImFwaXVzZXJAZW1haWwuY29tIiwgYWN0b3JfdHlwZT0iQVBJIiwKbWVzc2FnZT0iQnV5aW5nIG51bWJlciIsCnN1YmplY3Q9IjE0MTU5Njc4ODg4Iiwgc3ViamVjdF90eXBlPSdOVU1CRVInLApub3Rlcz17ImNvdW50cnkiOiAiVVMiLCAicmVnaW9uIjogIkNBIn0sIHN0YXR1cz0iU1VDQ0VTUyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>release</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -914,16 +920,16 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>logging.</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text>number</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nLmF1ZGl0bG9nKGFjdGlvbj0iVkVSSUZZX0NDIiwgYWN0b3I9InN1cHBvcnQtdXNlckBwbGl2by5jb20iLCBhY3Rvcl90eXBlPSJBRE1JTiIsCm1lc3NhZ2U9IlZlcmlmaXlpbmcgY3JlZGl0IGNhcmQgZm9yIHVzZXIiLApzdWJqZWN0PSJ1c2VyQGVtYWlsLmNvbSIsIHN1YmplY3RfdHlwZT0iVVNFUiIsCm5vdGVzPXsiY2FyZF9pZCI6ICJjYV8yMzQyMzQyMjM0In0sIHN0YXR1cz0iU1VDQ0VTUyIpCgojIGV4YW1wbGUgb2YgbG9nZ2luZyBmcm9tIGFuIGFwaQpsb2cuYXVkaXRsb2coYWN0aW9uPSJOVU1CRVJfQlVZSU5HIiwgYWN0b3I9ImFwaXVzZXJAZW1haWwuY29tIiwgYWN0b3JfdHlwZT0iQVBJIiwKbWVzc2FnZT0iQnV5aW5nIG51bWJlciIsCnN1YmplY3Q9IjE0MTU5Njc4ODg4Iiwgc3ViamVjdF90eXBlPSdOVU1CRVInLApub3Rlcz17ImNvdW50cnkiOiAiVVMiLCAicmVnaW9uIjogIkNBIn0sIHN0YXR1cz0iU1VDQ0VTUyIpCg==</text>
+        <text encoding="base64">IGRldmVsb3AgLT4gZGV2ZWxvcDogdGVzdGluZy9idWcgZml4ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVsZWFzZSAtPiBkZXZlbG9wOiBkZXBsb3ltZW50IGRvbmUKZGVzdHJveSByZWxlYXNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -935,31 +941,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBsb2dnaW5nIGltcG9ydCBXQVJOLCBXQVJOSU5HLCBERUJVRywgSU5GTywgRVJST1IsIENSSVRJQ0FMLCBGQVRBTCwgTk9UU0VUCg==</text>
+        <text encoding="base64">cmVsZWFzZSAtPiBkZXZlbG9wOiBkZXBsb3ltZW50IGRvbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVzdHJveSByZWxlYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYVsnaG9zdG5hbWUnXSA9ICdhcGlzZXJ2aWNlJwo=</text>
+        <text encoding="base64">TWFzdGVyIC0tPiBBbGljZTogQXV0aGVudGljYXRpb24gUmVzcG9uc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IGRlYWN0aXZhdGUgZGV2ZWxvcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgpsb2cgPSBQbGl2b0xvZ2dlcigpCg==</text>
+        <text encoding="base64">IGFjdGl2YXRlIGRldmVsb3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IGFjdGl2YXRlIGRldmVsb3AKIGRlYWN0aXZhdGUgZGV2ZWxvcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IGFjdGl2YXRlIGRldmVsb3AK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnRveAo=</text>
+        <text encoding="base64">QWxpY2UgLT4gQm9iOiBBbm90aGVyIGF1dGhlbnRpY2F0aW9uIFJlcXVlc3QKQWxpY2UgPC0tIEJvYjogYW5vdGhlciBhdXRoZW50aWNhdGlvbiBSZXNwb25zZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>280</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -969,7 +975,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1012,9 +1018,9 @@
         <entry>W</entry>
         <entry>30</entry>
         <entry>651</entry>
-        <entry>w</entry>
         <entry>200</entry>
         <entry>280</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
