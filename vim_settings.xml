@@ -565,6 +565,9 @@
         <mark key="^" line="53" column="20" />
         <mark key="." line="22" column="48" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/requirements.txt" timestamp="1500576663781">
+        <mark key="'" line="82" column="7" />
+      </file>
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/.BC.D_00f0ik/user_manager.py" timestamp="1477063789127">
         <mark key="'" line="89" column="4" />
       </file>
@@ -815,7 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1157" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1161" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1162" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1166" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
@@ -915,6 +917,7 @@
       <jump line="355" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="3027" column="41" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
       <jump line="33" column="60" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
+      <jump line="82" column="7" filename="$USER_HOME$/src/plivocloud/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -933,7 +936,7 @@
         <text>release</text>
       </register>
       <register name="/" type="4">
-        <text>number</text>
+        <text>uj</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IWluY2x1ZGUgY29tbW9uLnB1bWwK</text>
@@ -979,17 +982,16 @@
       </register>
     </registers>
     <search>
-      <last-search>number</last-search>
+      <last-search>uj</last-search>
       <last-offset />
-      <last-pattern>number</last-pattern>
+      <last-pattern>uj</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pref</entry>
         <entry>plivo_to</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry>account_phon</entry>
@@ -1009,6 +1011,7 @@
         <entry>Availa</entry>
         <entry>avail</entry>
         <entry>number</entry>
+        <entry>uj</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
