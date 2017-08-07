@@ -17,11 +17,6 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/src/python-plivolog/requirements-testing.txt" timestamp="1497370584078">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/phone_verification_helper.py" timestamp="1489597922916">
         <mark key="'" line="0" column="0" />
       </file>
@@ -90,11 +85,6 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1498744477473">
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="85" column="32" />
-        <mark key="." line="85" column="32" />
-      </file>
       <file name="$USER_HOME$/src/sso-poc/idp/idp/settings.py" timestamp="1466779693868">
         <mark key="'" line="131" column="13" />
         <mark key="[" line="127" column="62" />
@@ -123,8 +113,8 @@
         <mark key="." line="136" column="33" />
         <mark key="^" line="136" column="33" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1501567281335">
-        <mark key="'" line="116" column="7" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1502111658552">
+        <mark key="'" line="585" column="24" />
         <mark key="[" line="662" column="0" />
         <mark key="]" line="662" column="0" />
         <mark key="^" line="4844" column="106" />
@@ -136,6 +126,7 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/models.py" timestamp="1502111445521" />
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
       </file>
@@ -611,11 +602,6 @@
         <mark key="^" line="417" column="28" />
         <mark key="." line="417" column="28" />
       </file>
-      <file name="$USER_HOME$/src/QATools/requirements.txt" timestamp="1496732556985">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/src/sso-poc/venv/lib/python3.5/site-packages/oauth2_provider/oauth2_validators.py" timestamp="1467013356069">
         <mark key="'" line="275" column="21" />
         <mark key="[" line="273" column="0" />
@@ -773,11 +759,6 @@
         <mark key="^" line="75" column="73" />
         <mark key="." line="75" column="73" />
       </file>
-      <file name="$USER_HOME$/src/QATools/README.md" timestamp="1496732500238">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/src/galactica/django-oauth-toolkit/oauth2_provider/tests/test_token_caching.py" timestamp="1467646230791">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="62" column="0" />
@@ -818,9 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1183" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
-      <jump line="1185" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
-      <jump line="1188" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1191" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1212" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1215" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
@@ -918,6 +896,9 @@
       <jump line="48" column="15" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
       <jump line="515" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="116" column="7" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="241" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="442" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="585" column="24" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -936,7 +917,7 @@
         <text>release</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZW1wZmlsZVw+</text>
+        <text encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IWluY2x1ZGUgY29tbW9uLnB1bWwK</text>
@@ -982,9 +963,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZW1wZmlsZVw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZW1wZmlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -992,8 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>account_phon</entry>
-        <entry>is_toll</entry>
         <entry>is_tollf</entry>
         <entry>is_to_to</entry>
         <entry encoding="base64">XDx0b19udW1iZXJcPg==</entry>
@@ -1012,6 +991,8 @@
         <entry encoding="base64">XDxhbGxvd19yZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxjbGVhbl9waG9uZV9udW1iZXJcPg==</entry>
         <entry encoding="base64">XDx0ZW1wZmlsZVw+</entry>
+        <entry>plivo_regi</entry>
+        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set ic</entry>
