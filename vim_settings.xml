@@ -399,11 +399,11 @@
         <mark key="." line="9" column="50" />
         <mark key="^" line="9" column="50" />
       </file>
-      <file name="$USER_HOME$/src/designs/branching.puml" timestamp="1502196363338">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="27" />
-        <mark key="." line="25" column="27" />
-        <mark key="^" line="25" column="27" />
+      <file name="$USER_HOME$/src/designs/branching.puml" timestamp="1502197127507">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/urls.py" timestamp="1474539271698">
         <mark key="'" line="96" column="11" />
