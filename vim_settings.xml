@@ -959,7 +959,7 @@
         <text encoding="base64">bWFzdGVyIC0+IGhvdGZpeApob3RmaXggLT4gaG90Zml4OiBob3RmaXhlcy9wcm9kIGZpeGVzCmhvdGZpeCAtPiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>257</text>
       </register>
     </registers>
     <search>
@@ -995,7 +995,6 @@
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set ic</entry>
         <entry>92</entry>
         <entry>204</entry>
         <entry>123</entry>
@@ -1015,6 +1014,7 @@
         <entry>200</entry>
         <entry>280</entry>
         <entry>w</entry>
+        <entry>257</entry>
       </history-cmd>
       <history-expr />
       <history-input />
