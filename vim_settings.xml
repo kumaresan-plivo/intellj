@@ -17,6 +17,9 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1502981876331">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/phone_verification_helper.py" timestamp="1489597922916">
         <mark key="'" line="0" column="0" />
       </file>
@@ -917,7 +920,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</text>
+        <text>callback</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFydGljaXBhbnQgcmVsIGFzIHJlbGVhc2UK</text>
@@ -963,9 +966,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</last-search>
+      <last-search>callback</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</last-pattern>
+      <last-pattern>callback</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -973,7 +976,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_tollf</entry>
         <entry>is_to_to</entry>
         <entry encoding="base64">XDx0b19udW1iZXJcPg==</entry>
         <entry>to_number</entry>
@@ -993,6 +995,7 @@
         <entry encoding="base64">XDx0ZW1wZmlsZVw+</entry>
         <entry>plivo_regi</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</entry>
+        <entry>callback</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
