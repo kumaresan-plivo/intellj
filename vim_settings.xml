@@ -303,8 +303,8 @@
         <mark key="^" line="29" column="48" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1499956237938">
-        <mark key="'" line="33" column="60" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1503004311108">
+        <mark key="'" line="217" column="55" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/helpers/cdr_util.py" timestamp="1499352259028">
         <mark key="'" line="18" column="43" />
@@ -592,8 +592,8 @@
         <mark key="." line="180" column="91" />
         <mark key="^" line="180" column="91" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1497328816320">
-        <mark key="'" line="19" column="31" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1503004358641">
+        <mark key="'" line="252" column="49" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" timestamp="1499352403885">
         <mark key="'" line="4" column="24" />
@@ -802,8 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1191" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
-      <jump line="1212" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1215" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1229" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="1240" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
@@ -902,6 +900,8 @@
       <jump line="241" column="1" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="442" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="585" column="24" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="217" column="55" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
+      <jump line="252" column="49" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -920,7 +920,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>callback</text>
+        <text encoding="base64">XDxpbnVzZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFydGljaXBhbnQgcmVsIGFzIHJlbGVhc2UK</text>
@@ -966,9 +966,9 @@
       </register>
     </registers>
     <search>
-      <last-search>callback</last-search>
+      <last-search encoding="base64">XDxpbnVzZVw+</last-search>
       <last-offset />
-      <last-pattern>callback</last-pattern>
+      <last-pattern encoding="base64">XDxpbnVzZVw+</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -976,8 +976,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_to_to</entry>
-        <entry encoding="base64">XDx0b19udW1iZXJcPg==</entry>
         <entry>to_number</entry>
         <entry encoding="base64">XDxyb3VuZF9iaWxsX2R1cmF0aW9uXD4=</entry>
         <entry>call_deta</entry>
@@ -996,6 +994,8 @@
         <entry>plivo_regi</entry>
         <entry encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</entry>
         <entry>callback</entry>
+        <entry>manager</entry>
+        <entry encoding="base64">XDxpbnVzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
