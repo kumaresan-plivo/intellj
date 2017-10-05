@@ -458,6 +458,9 @@
         <mark key="." line="283" column="88" />
         <mark key="^" line="283" column="88" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" timestamp="1507228778657">
+        <mark key="'" line="411" column="87" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497369748148">
         <mark key="'" line="27" column="0" />
       </file>
@@ -797,8 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="745" column="38" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="754" column="23" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="758" column="22" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
       <jump line="197" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="401" column="53" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
@@ -897,6 +898,8 @@
       <jump line="31" column="62" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/urls.py" />
       <jump line="1921" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="2023" column="89" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="400" column="29" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" />
+      <jump line="411" column="87" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -915,7 +918,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbXNcPg==</text>
+        <text>040</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFydGljaXBhbnQgcmVsIGFzIHJlbGVhc2UK</text>
@@ -961,17 +964,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbXNcPg==</last-search>
+      <last-search>040</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbXNcPg==</last-pattern>
+      <last-pattern>040</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>number</entry>
         <entry>uj</entry>
         <entry encoding="base64">XDxhbGxvd19yZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxjbGVhbl9waG9uZV9udW1iZXJcPg==</entry>
@@ -991,6 +993,7 @@
         <entry encoding="base64">XDxyZWNvcmRpbmdfdHlwZVw+</entry>
         <entry>prici</entry>
         <entry encoding="base64">XDxzbXNcPg==</entry>
+        <entry>040</entry>
       </history-search>
       <history-cmd>
         <entry>92</entry>
