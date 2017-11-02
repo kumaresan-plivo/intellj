@@ -30,6 +30,7 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/tasks.py" timestamp="1509656611567" />
       <file name="$USER_HOME$/src/galactica/company-user.puml" timestamp="1470912451450">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
@@ -145,13 +146,7 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1507278590988">
-        <mark key="'" line="754" column="47" />
-        <mark key="[" line="323" column="11" />
-        <mark key="]" line="323" column="11" />
-        <mark key="." line="323" column="11" />
-        <mark key="^" line="323" column="56" />
-      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1509657203605" />
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
       </file>
