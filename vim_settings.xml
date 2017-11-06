@@ -433,8 +433,8 @@
         <mark key="." line="37" column="98" />
         <mark key="^" line="37" column="97" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/urls.py" timestamp="1507212914018">
-        <mark key="'" line="31" column="62" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/urls.py" timestamp="1509970457845">
+        <mark key="'" line="83" column="79" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" timestamp="1495043662231">
         <mark key="'" line="117" column="52" />
@@ -801,8 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="758" column="22" filename="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" />
-      <jump line="197" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="401" column="53" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="23" column="11" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="24" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
@@ -901,6 +899,8 @@
       <jump line="2023" column="89" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="400" column="29" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" />
       <jump line="411" column="87" filename="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" />
+      <jump line="82" column="75" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/urls.py" />
+      <jump line="83" column="79" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -919,7 +919,7 @@
         <text>Unexpected</text>
       </register>
       <register name="/" type="4">
-        <text>040</text>
+        <text encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUklTS19SQVRJTkdfQVBJOjpGQUlMVVJFOiAlcyBmb3IgZGF0YTogJXMnICUgKHJlc3BvbnNlX2pzb24sIGRhdGEpKQo=</text>
@@ -961,21 +961,20 @@
         <text encoding="base64">bWFzdGVyIC0+IGhvdGZpeApob3RmaXggLT4gaG90Zml4OiBob3RmaXhlcy9wcm9kIGZpeGVzCmhvdGZpeCAtPiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>852</text>
+        <text>219</text>
       </register>
     </registers>
     <search>
-      <last-search>040</last-search>
+      <last-search encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>040</last-pattern>
+      <last-pattern encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uj</entry>
         <entry encoding="base64">XDxhbGxvd19yZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxjbGVhbl9waG9uZV9udW1iZXJcPg==</entry>
         <entry encoding="base64">XDx0ZW1wZmlsZVw+</entry>
@@ -995,9 +994,9 @@
         <entry>prici</entry>
         <entry encoding="base64">XDxzbXNcPg==</entry>
         <entry>040</entry>
+        <entry encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>366</entry>
         <entry>95</entry>
         <entry>41</entry>
         <entry>129</entry>
@@ -1017,6 +1016,7 @@
         <entry>w</entry>
         <entry>608</entry>
         <entry>852</entry>
+        <entry>219</entry>
       </history-cmd>
       <history-expr />
       <history-input />
