@@ -146,6 +146,7 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1509956366251" />
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
       </file>
@@ -960,7 +961,7 @@
         <text encoding="base64">bWFzdGVyIC0+IGhvdGZpeApob3RmaXggLT4gaG90Zml4OiBob3RmaXhlcy9wcm9kIGZpeGVzCmhvdGZpeCAtPiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>608</text>
+        <text>852</text>
       </register>
     </registers>
     <search>
@@ -996,7 +997,6 @@
         <entry>040</entry>
       </history-search>
       <history-cmd>
-        <entry>123</entry>
         <entry>366</entry>
         <entry>95</entry>
         <entry>41</entry>
@@ -1016,6 +1016,7 @@
         <entry>4656</entry>
         <entry>w</entry>
         <entry>608</entry>
+        <entry>852</entry>
       </history-cmd>
       <history-expr />
       <history-input />
