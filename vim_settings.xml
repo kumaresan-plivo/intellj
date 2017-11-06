@@ -195,10 +195,6 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" timestamp="1485169708737">
         <mark key="'" line="171" column="8" />
       </file>
-      <file name="$USER_HOME$/src/designs/arch.puml" timestamp="1500473602051">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" timestamp="1501566878951">
         <mark key="'" line="48" column="15" />
       </file>
@@ -459,7 +455,7 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497369748148">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/helper.py" timestamp="1509954929587">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/helper.py" timestamp="1509975095790">
         <mark key="[" line="84" column="39" />
         <mark key="]" line="84" column="46" />
         <mark key="." line="84" column="46" />
@@ -740,7 +736,7 @@
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plivo_cloud/db_routers.py" timestamp="1499174671033">
         <mark key="'" line="33" column="63" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/views.py" timestamp="1490352641526">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/views.py" timestamp="1509975069223">
         <mark key="'" line="255" column="12" />
         <mark key="[" line="109" column="39" />
         <mark key="]" line="110" column="86" />
