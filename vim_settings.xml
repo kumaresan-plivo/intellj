@@ -30,7 +30,6 @@
         <mark key="^" line="47" column="4" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/tasks.py" timestamp="1509656611567" />
       <file name="$USER_HOME$/src/galactica/company-user.puml" timestamp="1470912451450">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="0" />
@@ -146,7 +145,6 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1509657203605" />
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
       </file>
@@ -955,7 +953,7 @@
         <text encoding="base64">bWFzdGVyIC0+IGhvdGZpeApob3RmaXggLT4gaG90Zml4OiBob3RmaXhlcy9wcm9kIGZpeGVzCmhvdGZpeCAtPiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>257</text>
+        <text>4656</text>
       </register>
     </registers>
     <search>
@@ -991,7 +989,6 @@
         <entry>040</entry>
       </history-search>
       <history-cmd>
-        <entry>92</entry>
         <entry>204</entry>
         <entry>123</entry>
         <entry>366</entry>
@@ -1011,6 +1008,7 @@
         <entry>280</entry>
         <entry>w</entry>
         <entry>257</entry>
+        <entry>4656</entry>
       </history-cmd>
       <history-expr />
       <history-input />
