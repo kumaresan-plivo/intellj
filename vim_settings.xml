@@ -304,7 +304,7 @@
         <text>Unexpected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUklTS19SQVRJTkdfQVBJOjpGQUlMVVJFOiAlcyBmb3IgZGF0YTogJXMnICUgKHJlc3BvbnNlX2pzb24sIGRhdGEpKQo=</text>
@@ -350,17 +350,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxvd19yZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxjbGVhbl9waG9uZV9udW1iZXJcPg==</entry>
         <entry encoding="base64">XDx0ZW1wZmlsZVw+</entry>
         <entry>plivo_regi</entry>
@@ -380,6 +379,7 @@
         <entry encoding="base64">XDxzbXNcPg==</entry>
         <entry>040</entry>
         <entry encoding="base64">XDxwaG9uZV9hY3RpdmF0aW9uXD4=</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
