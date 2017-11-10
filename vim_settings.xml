@@ -175,8 +175,10 @@
         <mark key="^" line="110" column="86" />
         <mark key="." line="110" column="86" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" timestamp="1510321523740">
-        <mark key="'" line="43" column="26" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" timestamp="1510322581318">
+        <mark key="'" line="185" column="34" />
+        <mark key="[" line="185" column="34" />
+        <mark key="]" line="185" column="61" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" timestamp="1495717406583">
         <mark key="'" line="237" column="64" />
@@ -195,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="38" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="93" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="149" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="150" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
@@ -295,10 +296,11 @@
       <jump line="280" column="136" filename="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/tastypie/resources.py" />
       <jump line="22" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
       <jump line="43" column="26" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
+      <jump line="185" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Unexpected</text>
+        <text>KILLSWITCH_SMSCACHE_FALLBACK</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -313,10 +315,10 @@
         <text>Unexpected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaW1pdENvdW50UGFnaW5hdG9yXD4=</text>
+        <text encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUklTS19SQVRJTkdfQVBJOjpGQUlMVVJFOiAlcyBmb3IgZGF0YTogJXMnICUgKHJlc3BvbnNlX2pzb24sIGRhdGEpKQo=</text>
+      <register name="0" type="4">
+        <text>KILLSWITCH_SMSCACHE_FALLBACK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiT05CT0FSRElORzo6c3VjY2VzcyByZXNwb25zZSBmcm9tIG9uYm9hcmRpbmcgdmFsaWRhdG9yIGZvciBlbWFpbDp7fSwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlJlc3BvbnNlIGNvZGU6e30uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoZGF0YS5nZXQoImVtYWlsIiksIHJlc3BvbnNlLnN0YXR1c19jb2RlKSkK</text>
@@ -359,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaW1pdENvdW50UGFnaW5hdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaW1pdENvdW50UGFnaW5hdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -369,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfdXNlcl9hY2NvdW50XD4=</entry>
         <entry>callback</entry>
         <entry>manager</entry>
         <entry encoding="base64">XDxpbnVzZVw+</entry>
@@ -389,6 +390,7 @@
         <entry encoding="base64">XDxnZXRfZW5kcG9pbnRzXD4=</entry>
         <entry>dispatch_lis</entry>
         <entry encoding="base64">XDxMaW1pdENvdW50UGFnaW5hdG9yXD4=</entry>
+        <entry encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>95</entry>
