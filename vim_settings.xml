@@ -175,8 +175,8 @@
         <mark key="^" line="110" column="86" />
         <mark key="." line="110" column="86" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" timestamp="1510322581318">
-        <mark key="'" line="185" column="34" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" timestamp="1510324643665">
+        <mark key="'" line="16" column="51" />
         <mark key="[" line="185" column="34" />
         <mark key="]" line="185" column="61" />
       </file>
@@ -197,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
-      <jump line="149" column="44" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
-      <jump line="150" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="154" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="305" column="29" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
       <jump line="324" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/phone_number_resource.py" />
@@ -297,6 +294,9 @@
       <jump line="22" column="22" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
       <jump line="43" column="26" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
       <jump line="185" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
+      <jump line="63" column="101" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
+      <jump line="16" column="51" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -315,7 +315,7 @@
         <text>Unexpected</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</text>
+        <text>KILL</text>
       </register>
       <register name="0" type="4">
         <text>KILLSWITCH_SMSCACHE_FALLBACK</text>
@@ -357,13 +357,13 @@
         <text encoding="base64">bWFzdGVyIC0+IGhvdGZpeApob3RmaXggLT4gaG90Zml4OiBob3RmaXhlcy9wcm9kIGZpeGVzCmhvdGZpeCAtPiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>219</text>
+        <text>167</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</last-search>
+      <last-search>KILL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</last-pattern>
+      <last-pattern>KILL</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -371,8 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>callback</entry>
-        <entry>manager</entry>
         <entry encoding="base64">XDxpbnVzZVw+</entry>
         <entry encoding="base64">XDxtZWRpYV9zZXJ2ZXJzXD4=</entry>
         <entry encoding="base64">XDxWQUxJRF9QT1NUX0NPTlRFTlRfVFlQRVNcPg==</entry>
@@ -391,9 +389,10 @@
         <entry>dispatch_lis</entry>
         <entry encoding="base64">XDxMaW1pdENvdW50UGFnaW5hdG9yXD4=</entry>
         <entry encoding="base64">XDxLSUxMU1dJVENIX1NNU0NBQ0hFX0ZBTExCQUNLXD4=</entry>
+        <entry>dispatch_detail</entry>
+        <entry>KILL</entry>
       </history-search>
       <history-cmd>
-        <entry>95</entry>
         <entry>41</entry>
         <entry>129</entry>
         <entry>jumps</entry>
@@ -413,6 +412,7 @@
         <entry>608</entry>
         <entry>852</entry>
         <entry>219</entry>
+        <entry>167</entry>
       </history-cmd>
       <history-expr />
       <history-input />
