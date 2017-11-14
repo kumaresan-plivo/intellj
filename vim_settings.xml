@@ -58,6 +58,7 @@
         <mark key="." line="136" column="33" />
         <mark key="^" line="136" column="33" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/.tox/py27-django13/lib/python2.7/site-packages/django/contrib/auth/__init__.py" timestamp="1510669785997" />
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/branching.puml" timestamp="1500473529824">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="30" />
@@ -197,6 +198,11 @@
         <mark key="[" line="200" column="34" />
         <mark key="]" line="200" column="61" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/charts.py" timestamp="1510669602668">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxy.py" timestamp="1495717406583">
         <mark key="'" line="237" column="64" />
       </file>
@@ -317,7 +323,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>style=rounded</text>
+        <text>O</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -329,7 +335,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>style=rounded</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>padding</text>
