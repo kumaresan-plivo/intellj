@@ -122,6 +122,9 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" timestamp="1501566878951">
         <mark key="'" line="48" column="15" />
       </file>
+      <file name="/Python Console" timestamp="1510669250366">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/caprica/caprica/settings/staging.py" timestamp="1480009530356">
         <mark key="'" line="33" column="25" />
       </file>
@@ -381,7 +384,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
