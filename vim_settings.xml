@@ -36,7 +36,9 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497369748148">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" timestamp="1510747642326" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" timestamp="1511260696629">
+        <mark key="'" line="2024" column="12" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/helper.py" timestamp="1509975095790">
         <mark key="[" line="84" column="39" />
         <mark key="]" line="84" column="46" />
@@ -52,7 +54,6 @@
       <file name="$USER_HOME$/src/ryuk/dashboard/views.py" timestamp="1488890347494">
         <mark key="'" line="2562" column="4" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_common/helper.py" timestamp="1510743413410" />
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/helper.py" timestamp="1509975898499">
         <mark key="'" line="91" column="35" />
         <mark key="[" line="136" column="34" />
@@ -72,7 +73,6 @@
       <file name="$USER_HOME$/src/plivocloud/schema/000_initial_schema.sql" timestamp="1491821304131">
         <mark key="'" line="2082" column="35" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1510747930042" />
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
       </file>
@@ -169,6 +169,9 @@
       <file name="$USER_HOME$/src/plivocloud/venv/lib/python2.7/site-packages/django/contrib/auth/views.py" timestamp="1484822319593">
         <mark key="'" line="99" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1511260555666">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/helpers.py" timestamp="1475864933431">
         <mark key="'" line="82" column="41" />
       </file>
@@ -225,10 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="29" filename="$USER_HOME$/src/python-plivolog/plivolog/plivolog.py" />
-      <jump line="1028" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
-      <jump line="8" column="5" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
-      <jump line="299" column="27" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="300" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="301" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="302" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
@@ -325,6 +324,10 @@
       <jump line="3" column="24" filename="$USER_HOME$/src/designs/common.puml" />
       <jump line="75" column="14" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
       <jump line="140" column="8" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
+      <jump line="2080" column="20" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
+      <jump line="2125" column="15" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
+      <jump line="2077" column="39" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
+      <jump line="2024" column="12" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -343,7 +346,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYWNjb3VudFw+</text>
+        <text encoding="base64">XDxxdWV1ZV9mYWlsZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -385,21 +388,20 @@
         <text encoding="base64">c2tpbnBhcmFtICAgICBub3RlRm9udFNpemUgICAgICAgIDE0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYWNjb3VudFw+</last-search>
+      <last-search encoding="base64">XDxxdWV1ZV9mYWlsZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYWNjb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxxdWV1ZV9mYWlsZWRcPg==</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Save</entry>
         <entry encoding="base64">XDxjb25mZXJlbmNlX25hbWVcPg==</entry>
         <entry>SaveRec</entry>
         <entry encoding="base64">XDx0cmFuc2NyaXB0aW9uX3R5cGVcPg==</entry>
@@ -419,9 +421,9 @@
         <entry>padding</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxnZXRfYWNjb3VudFw+</entry>
+        <entry encoding="base64">XDxxdWV1ZV9mYWlsZWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>129</entry>
         <entry>jumps</entry>
         <entry>48</entry>
         <entry>178</entry>
@@ -441,6 +443,7 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
