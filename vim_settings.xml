@@ -37,7 +37,7 @@
         <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" timestamp="1511260696629">
-        <mark key="'" line="2024" column="12" />
+        <mark key="'" line="2025" column="12" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/helper.py" timestamp="1509975095790">
         <mark key="[" line="84" column="39" />
@@ -194,8 +194,8 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1510212614749">
-        <mark key="'" line="217" column="55" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1511948400093">
+        <mark key="'" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/views.py" timestamp="1509975069223">
         <mark key="'" line="255" column="12" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="324" column="27" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="325" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
       <jump line="326" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/settings.py" />
@@ -334,6 +332,8 @@
       <jump line="2024" column="12" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="562" column="11" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" />
       <jump line="20" column="0" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/urls.py" />
+      <jump line="118" column="59" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,7 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2NyaXB0aW9uX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxyZWNvcmRpbmdfdHlwZVw+</entry>
         <entry>prici</entry>
         <entry encoding="base64">XDxzbXNcPg==</entry>
@@ -427,6 +426,7 @@
         <entry encoding="base64">XDxnZXRfYWNjb3VudFw+</entry>
         <entry encoding="base64">XDxxdWV1ZV9mYWlsZWRcPg==</entry>
         <entry>endpoi</entry>
+        <entry>endpoints</entry>
         <entry encoding="base64">XDxSRVNUX1VSTFNcPg==</entry>
       </history-search>
       <history-cmd>
