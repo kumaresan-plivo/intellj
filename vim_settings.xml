@@ -116,8 +116,8 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/user_api.py" timestamp="1510304222152">
         <mark key="'" line="144" column="4" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" timestamp="1510747455685">
-        <mark key="'" line="140" column="8" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" timestamp="1512740535964">
+        <mark key="'" line="678" column="119" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxyserver.py" timestamp="1491316613735">
         <mark key="'" line="175" column="17" />
@@ -220,10 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="518" column="8" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="1813" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="2142" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="2375" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2400" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2450" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2475" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -320,6 +316,10 @@
       <jump line="58" column="157" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" />
       <jump line="0" column="0" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" />
       <jump line="30" column="74" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" />
+      <jump line="88" column="69" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
+      <jump line="109" column="157" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
+      <jump line="128" column="28" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
+      <jump line="678" column="119" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
