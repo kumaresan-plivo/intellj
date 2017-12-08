@@ -36,9 +36,6 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/views.py" timestamp="1497369748148">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" timestamp="1512056982277">
-        <mark key="'" line="229" column="21" />
-      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/helper.py" timestamp="1509975095790">
         <mark key="[" line="84" column="39" />
         <mark key="]" line="84" column="46" />
@@ -408,7 +405,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
