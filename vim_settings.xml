@@ -67,8 +67,8 @@
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/.BC.D_00f0ik/user_manager.py" timestamp="1477063789127">
         <mark key="'" line="89" column="4" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" timestamp="1491316515924">
-        <mark key="'" line="1" column="16" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" timestamp="1513094761786">
+        <mark key="'" line="123" column="38" />
       </file>
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1477295308918">
         <mark key="'" line="50" column="34" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2400" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2450" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2475" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2491" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -320,6 +319,7 @@
       <jump line="109" column="157" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
       <jump line="128" column="28" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
       <jump line="678" column="119" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" />
+      <jump line="123" column="38" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,7 +338,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</text>
+        <text>number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -384,9 +384,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</last-search>
+      <last-search>number</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</last-pattern>
+      <last-pattern>number</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>endpoi</entry>
         <entry>endpoints</entry>
         <entry encoding="base64">XDxSRVNUX1VSTFNcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfcGFyYW1zXD4=</entry>
@@ -414,6 +413,7 @@
         <entry encoding="base64">XDxmZXRjaF91cmxcPg==</entry>
         <entry encoding="base64">XDxIVFRQX01PRFVMRVw+</entry>
         <entry encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</entry>
+        <entry>number</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
