@@ -42,13 +42,6 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/helper.py" timestamp="1509975898499">
-        <mark key="'" line="91" column="35" />
-        <mark key="[" line="136" column="34" />
-        <mark key="]" line="136" column="33" />
-        <mark key="." line="136" column="33" />
-        <mark key="^" line="136" column="33" />
-      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
       </file>
@@ -75,13 +68,6 @@
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" timestamp="1511946885444">
         <mark key="'" line="562" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/designs/workflow.puml" timestamp="1510665289164">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/db_routers.py" timestamp="1502172004725">
         <mark key="'" line="10" column="23" />
@@ -161,22 +147,8 @@
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plivo_cloud/db_routers.py" timestamp="1499174671033">
         <mark key="'" line="33" column="63" />
       </file>
-      <file name="$USER_HOME$/src/designs/common.puml" timestamp="1510665768448">
-        <mark key="'" line="3" column="24" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1511948400093">
         <mark key="'" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_onboarding/views.py" timestamp="1509975069223">
-        <mark key="'" line="255" column="12" />
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="110" column="86" />
-        <mark key="^" line="110" column="86" />
-        <mark key="." line="110" column="86" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/urls.py" timestamp="1511952885051">
         <mark key="'" line="277" column="17" />
@@ -390,7 +362,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
