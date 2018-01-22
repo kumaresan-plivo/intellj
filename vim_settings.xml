@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/recording_resource.py" timestamp="1516620228922" />
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
       </file>
@@ -105,7 +106,9 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/proxycloud.py" timestamp="1512740535964">
         <mark key="'" line="678" column="119" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/tasks.py" timestamp="1516618689420" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/tasks.py" timestamp="1516620143118">
+        <mark key="'" line="45" column="16" />
+      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/outproxyserver.py" timestamp="1491316613735">
         <mark key="'" line="175" column="17" />
       </file>
@@ -193,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2524" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2541" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2558" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2576" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -293,6 +295,7 @@
       <jump line="62" column="57" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
       <jump line="139" column="106" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
       <jump line="29" column="68" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/helper.py" />
+      <jump line="45" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,7 +314,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjdXRlX3Jhd19zcWxfcXVlcnlcPg==</text>
+        <text encoding="base64">XDxjb25uZWN0X3MzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -357,17 +360,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGVjdXRlX3Jhd19zcWxfcXVlcnlcPg==</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0X3MzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjdXRlX3Jhd19zcWxfcXVlcnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0X3MzXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdmFsaWRhdGVfcGFyYW1zXD4=</entry>
         <entry>params</entry>
         <entry encoding="base64">XDxfYXBpXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -387,6 +389,7 @@
         <entry>number</entry>
         <entry encoding="base64">XDxlbmRwb2ludF9pZFw+</entry>
         <entry encoding="base64">XDxleGVjdXRlX3Jhd19zcWxfcXVlcnlcPg==</entry>
+        <entry encoding="base64">XDxjb25uZWN0X3MzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
