@@ -42,8 +42,8 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1517995871384">
-        <mark key="'" line="4870" column="71" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1518002378585">
+        <mark key="'" line="3803" column="47" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
@@ -190,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2576" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="2593" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2620" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2649" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2666" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -290,6 +288,8 @@
       <jump line="45" column="16" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/tasks.py" />
       <jump line="26" column="17" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/tasks.py" />
       <jump line="4870" column="71" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="5212" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3803" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +308,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -354,9 +354,9 @@
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlc1w+</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlc1w+</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>request</entry>
         <entry>query</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
@@ -384,6 +383,7 @@
         <entry encoding="base64">XDxjb25uZWN0X3MzXD4=</entry>
         <entry encoding="base64">XDxERUxFVEVfQ0FMTF9SRUNPUkRJTkdcPg==</entry>
         <entry>document</entry>
+        <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
