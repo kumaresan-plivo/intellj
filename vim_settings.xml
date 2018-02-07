@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/payments/billing_recharge_first_payment.html" timestamp="1495043662231">
         <mark key="'" line="117" column="52" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" timestamp="1518008923347">
+        <mark key="'" line="751" column="43" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/templates/plivo_account/pricing/pricing.html" timestamp="1507228778657">
         <mark key="'" line="411" column="87" />
       </file>
@@ -190,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2620" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="2649" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2666" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2695" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="2727" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -290,6 +291,8 @@
       <jump line="4870" column="71" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="5212" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="3803" column="47" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="728" column="68" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
+      <jump line="751" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,7 +311,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlc1w+</text>
+        <text encoding="base64">XDx1c2VyX2lwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -354,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlc1w+</last-search>
+      <last-search encoding="base64">XDx1c2VyX2lwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyX2lwXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>query</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxoeWRyYXRlXD4=</entry>
@@ -384,6 +386,7 @@
         <entry encoding="base64">XDxERUxFVEVfQ0FMTF9SRUNPUkRJTkdcPg==</entry>
         <entry>document</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDx1c2VyX2lwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>jumps</entry>
