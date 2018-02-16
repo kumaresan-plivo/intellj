@@ -45,7 +45,6 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
-      <file name="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/tests/sample_cdr.txt" timestamp="1518716960837" />
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1518002378585">
         <mark key="'" line="3803" column="47" />
       </file>
@@ -76,7 +75,7 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/restapi.py" timestamp="1511946885444">
         <mark key="'" line="562" column="11" />
       </file>
-      <file name="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/usecases/utils.py" timestamp="1518716747746">
+      <file name="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/usecases/utils.py" timestamp="1518789851456">
         <mark key="'" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/db_routers.py" timestamp="1502172004725">
@@ -145,7 +144,7 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" timestamp="1518699262296">
         <mark key="'" line="1273" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518716849264">
+      <file name="/Dummy.txt" timestamp="1518789881829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/helpers.py" timestamp="1475864933431">
@@ -376,7 +375,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
