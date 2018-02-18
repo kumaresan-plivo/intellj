@@ -365,7 +365,7 @@
         <text encoding="base64">c2tpbnBhcmFtICAgICBub3RlRm9udFNpemUgICAgICAgIDE0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>3101</text>
       </register>
     </registers>
     <search>
@@ -401,7 +401,6 @@
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>jumps</entry>
         <entry>48</entry>
         <entry>178</entry>
         <entry>122</entry>
@@ -421,6 +420,7 @@
         <entry>q</entry>
         <entry>w</entry>
         <entry>qa</entry>
+        <entry>3101</entry>
       </history-cmd>
       <history-expr />
       <history-input />
