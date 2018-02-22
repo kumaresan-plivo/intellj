@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" timestamp="1513261749705">
         <mark key="'" line="139" column="106" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" timestamp="1501566878951">
-        <mark key="'" line="48" column="15" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" timestamp="1519306711305">
+        <mark key="'" line="58" column="9" />
       </file>
       <file name="/Python Console" timestamp="1518699164063">
         <mark key="[" line="0" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2915" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="2956" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="582" column="75" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="677" column="72" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
       <jump line="0" column="0" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
@@ -305,6 +303,8 @@
       <jump line="1271" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" />
       <jump line="1273" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" />
       <jump line="123" column="0" filename="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/usecases/utils.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
+      <jump line="58" column="9" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +323,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</text>
+        <text encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -369,17 +369,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>httpl</entry>
         <entry>fetch_url</entry>
         <entry encoding="base64">XDxmZXRjaF91cmxcPg==</entry>
         <entry encoding="base64">XDxIVFRQX01PRFVMRVw+</entry>
@@ -399,6 +398,7 @@
         <entry>address_id</entry>
         <entry>bridge_uuid</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
+        <entry encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
