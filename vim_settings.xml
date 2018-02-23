@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/.BC.D_00f0ik/user_manager.py" timestamp="1477063789127">
         <mark key="'" line="89" column="4" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" timestamp="1513094761786">
-        <mark key="'" line="123" column="38" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" timestamp="1519394099245">
+        <mark key="'" line="634" column="53" />
       </file>
       <file name="$USER_HOME$/src/galactica/venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1477295308918">
         <mark key="'" line="50" column="34" />
@@ -144,7 +144,7 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" timestamp="1518699262296">
         <mark key="'" line="1273" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518789881829">
+      <file name="/Dummy.txt" timestamp="1519394317722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/django-accounts/accounts/helpers.py" timestamp="1475864933431">
@@ -205,26 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="582" column="75" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="677" column="72" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="111" column="17" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="110" column="12" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="172" column="22" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="178" column="19" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="213" column="24" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="214" column="26" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="216" column="23" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="228" column="19" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="229" column="21" filename="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/restapi.py" />
-      <jump line="745" column="77" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="773" column="30" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="776" column="28" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="799" column="23" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="816" column="27" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="822" column="46" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="824" column="57" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="929" column="62" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
       <jump line="938" column="58" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
       <jump line="1008" column="58" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
       <jump line="1195" column="15" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
@@ -305,6 +285,26 @@
       <jump line="123" column="0" filename="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/usecases/utils.py" />
       <jump line="47" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
       <jump line="58" column="9" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="677" column="20" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="384" column="7" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="385" column="20" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="386" column="12" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="388" column="28" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="391" column="20" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="392" column="37" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="394" column="55" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="397" column="26" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="398" column="40" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="400" column="55" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="403" column="27" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="404" column="12" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="406" column="42" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="409" column="27" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="410" column="60" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="412" column="81" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="632" column="35" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="634" column="53" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +323,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</text>
+        <text>record</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -369,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</last-search>
+      <last-search>record</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</last-pattern>
+      <last-pattern>record</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fetch_url</entry>
         <entry encoding="base64">XDxmZXRjaF91cmxcPg==</entry>
         <entry encoding="base64">XDxIVFRQX01PRFVMRVw+</entry>
         <entry encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</entry>
@@ -399,6 +398,7 @@
         <entry>bridge_uuid</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</entry>
+        <entry>record</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
