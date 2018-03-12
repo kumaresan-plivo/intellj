@@ -87,8 +87,9 @@
       <file name="$USER_HOME$/src/galactica-designs/company-user.puml" timestamp="1476286423303">
         <mark key="'" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1503004358641">
+      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1520846252888">
         <mark key="'" line="252" column="49" />
+        <mark key="[" line="293" column="55" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" timestamp="1499352403885">
         <mark key="'" line="4" column="24" />
@@ -162,6 +163,7 @@
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plivo_cloud/db_routers.py" timestamp="1499174671033">
         <mark key="'" line="33" column="63" />
       </file>
+      <file name="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/redis/client.py" timestamp="1520846325267" />
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1511948400093">
         <mark key="'" line="20" column="0" />
       </file>
@@ -170,11 +172,6 @@
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/urls.py" timestamp="1511947117381">
         <mark key="'" line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/message_resource.py" timestamp="1512185893689">
-        <mark key="'" line="10" column="27" />
-        <mark key="[" line="200" column="34" />
-        <mark key="]" line="200" column="61" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/account_phone_number_resource.py" timestamp="1518698903755">
         <mark key="'" line="583" column="8" />
@@ -323,7 +320,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>cx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -369,9 +366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>cx</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>cx</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaF91cmxcPg==</entry>
         <entry encoding="base64">XDxIVFRQX01PRFVMRVw+</entry>
         <entry encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</entry>
         <entry>number</entry>
@@ -399,6 +395,7 @@
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
         <entry encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</entry>
         <entry>record</entry>
+        <entry>cx</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
