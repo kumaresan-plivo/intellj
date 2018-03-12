@@ -163,7 +163,7 @@
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/plivo_cloud/db_routers.py" timestamp="1499174671033">
         <mark key="'" line="33" column="63" />
       </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/redis/client.py" timestamp="1520846325267" />
+      <file name="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/redis/client.py" timestamp="1520848860348" />
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/urls.py" timestamp="1511948400093">
         <mark key="'" line="20" column="0" />
       </file>
