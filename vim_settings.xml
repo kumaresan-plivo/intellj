@@ -45,8 +45,8 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1518002378585">
-        <mark key="'" line="3803" column="47" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" timestamp="1520942653819">
+        <mark key="'" line="1506" column="71" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
@@ -185,8 +185,8 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" timestamp="1511952800038">
         <mark key="'" line="1127" column="65" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" timestamp="1507213436456">
-        <mark key="'" line="334" column="4" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" timestamp="1520942063026">
+        <mark key="'" line="618" column="64" />
       </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/helpers.py" timestamp="1512057034632">
         <mark key="'" line="114" column="30" />
@@ -202,27 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="938" column="58" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1008" column="58" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1195" column="15" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1196" column="51" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1197" column="20" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1201" column="21" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1202" column="59" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1207" column="26" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="1210" column="14" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/flask/app.py" />
-      <jump line="746" column="46" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <jump line="1093" column="13" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <jump line="1111" column="12" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <jump line="1114" column="12" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <jump line="1127" column="65" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/routing.py" />
-      <jump line="269" column="8" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/urls.py" />
-      <jump line="271" column="38" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/urls.py" />
-      <jump line="277" column="17" filename="$USER_HOME$/src/plivo_cloud_api/venv/lib/python2.7/site-packages/werkzeug/urls.py" />
-      <jump line="114" column="30" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/helpers.py" />
-      <jump line="196" column="45" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
-      <jump line="182" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
-      <jump line="184" column="49" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
       <jump line="79" column="30" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
       <jump line="128" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
       <jump line="189" column="30" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
@@ -302,6 +281,27 @@
       <jump line="412" column="81" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
       <jump line="632" column="35" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
       <jump line="634" column="53" filename="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxycloud.py" />
+      <jump line="486" column="82" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" />
+      <jump line="618" column="64" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/pricing_api.py" />
+      <jump line="2008" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2058" column="37" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2110" column="54" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2146" column="35" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2042" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2184" column="45" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2267" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2360" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2443" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2622" column="67" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2916" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2967" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="2997" column="37" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3100" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3131" column="36" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="3259" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="109" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="1467" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
+      <jump line="1506" column="71" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +320,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>cx</text>
+        <text encoding="base64">XDxzdGRfcHJvZHVjdF9wbGFuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -366,9 +366,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cx</last-search>
+      <last-search encoding="base64">XDxzdGRfcHJvZHVjdF9wbGFuXD4=</last-search>
       <last-offset />
-      <last-pattern>cx</last-pattern>
+      <last-pattern encoding="base64">XDxzdGRfcHJvZHVjdF9wbGFuXD4=</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -376,11 +376,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIVFRQX01PRFVMRVw+</entry>
-        <entry encoding="base64">XDx1c2VfaHR0cF9tb2R1bGVcPg==</entry>
-        <entry>number</entry>
-        <entry encoding="base64">XDxlbmRwb2ludF9pZFw+</entry>
-        <entry encoding="base64">XDxleGVjdXRlX3Jhd19zcWxfcXVlcnlcPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0X3MzXD4=</entry>
         <entry encoding="base64">XDxERUxFVEVfQ0FMTF9SRUNPUkRJTkdcPg==</entry>
         <entry>document</entry>
@@ -396,6 +391,11 @@
         <entry encoding="base64">XDxnZXRfY291bnRyeV9jb2RlXD4=</entry>
         <entry>record</entry>
         <entry>cx</entry>
+        <entry>stanrd</entry>
+        <entry>standard</entry>
+        <entry>1</entry>
+        <entry>pricing</entry>
+        <entry encoding="base64">XDxzdGRfcHJvZHVjdF9wbGFuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
