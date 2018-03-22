@@ -329,7 +329,7 @@
         <text>subccount.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJhY2NvdW50XD4=</text>
+        <text>invok</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2tpbnBhcmFtIHJlY3RhbmdsZSBzdHlsZT1yb3VuZGVkCg==</text>
@@ -375,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJhY2NvdW50XD4=</last-search>
+      <last-search>invok</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJhY2NvdW50XD4=</last-pattern>
+      <last-pattern>invok</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -385,8 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfdmVyaWZpY2F0aW9uX2luZm9fbGlzdFw+</entry>
-        <entry>verification_info</entry>
         <entry>address_id</entry>
         <entry>bridge_uuid</entry>
         <entry encoding="base64">XDxwYXJhbV9tYXBwaW5nXD4=</entry>
@@ -405,6 +403,8 @@
         <entry>already</entry>
         <entry>low_balance</entry>
         <entry encoding="base64">XDxzdWJhY2NvdW50XD4=</entry>
+        <entry>invoked</entry>
+        <entry>invok</entry>
       </history-search>
       <history-cmd>
         <entry>178</entry>
