@@ -371,7 +371,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -381,7 +381,7 @@
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -422,11 +422,11 @@
         <entry>219</entry>
         <entry>167</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>qa</entry>
         <entry>3101</entry>
         <entry>w</entry>
         <entry>x</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
