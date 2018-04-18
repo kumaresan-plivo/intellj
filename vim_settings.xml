@@ -13,12 +13,12 @@
         <mark key="." line="238" column="0" />
         <mark key="^" line="238" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1523987470572">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="26" />
-        <mark key="." line="68" column="26" />
-        <mark key="^" line="68" column="26" />
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524047846018">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502981876331">
         <mark key="[" line="0" column="0" />
@@ -353,7 +353,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sms_cost</text>
+        <text>, blank=True</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -365,7 +365,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>sms_cost</text>
+        <text>, blank=True</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
