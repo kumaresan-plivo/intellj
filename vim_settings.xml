@@ -13,12 +13,12 @@
         <mark key="." line="238" column="0" />
         <mark key="^" line="238" column="0" />
       </file>
-      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524047846018">
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524051097785">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+        <mark key="[" line="81" column="101" />
+        <mark key="]" line="82" column="52" />
+        <mark key="." line="82" column="52" />
+        <mark key="^" line="82" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1502981876331">
         <mark key="[" line="0" column="0" />
@@ -61,6 +61,9 @@
       <file name="$USER_HOME$/src/plivo_cloud_api/build/lib/plivocloudapi/gothamproxy.py" timestamp="1512739949559">
         <mark key="'" line="30" column="74" />
       </file>
+      <file name="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" timestamp="1524049562264">
+        <mark key="'" line="567" column="48" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" timestamp="1521222443869">
         <mark key="'" line="126" column="36" />
         <mark key="[" line="547" column="36" />
@@ -77,6 +80,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/models.py" timestamp="1524050123538">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="143" column="130" />
+      </file>
       <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/internalapi.py" timestamp="1496477429552">
         <mark key="'" line="71" column="4" />
       </file>
@@ -87,6 +94,10 @@
         <mark key="'" line="520" column="23" />
         <mark key="[" line="451" column="0" />
         <mark key="]" line="455" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1524050611122">
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="339" column="72" />
       </file>
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
@@ -120,10 +131,6 @@
       </file>
       <file name="$USER_HOME$/src/galactica-designs/company-user.puml" timestamp="1476286423303">
         <mark key="'" line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/plivo_cloud_api/src/plivocloudapi/proxyredis.py" timestamp="1520846252888">
-        <mark key="'" line="252" column="49" />
-        <mark key="[" line="293" column="55" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" timestamp="1499352403885">
         <mark key="'" line="4" column="24" />
@@ -250,12 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="40" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/account_phone_number_resource.py" />
-      <jump line="357" column="58" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/account_phone_number_resource.py" />
-      <jump line="583" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/account_phone_number_resource.py" />
-      <jump line="1264" column="12" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" />
-      <jump line="1271" column="8" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" />
-      <jump line="1273" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/verification_document_helper.py" />
       <jump line="123" column="0" filename="$USER_HOME$/src/accountant/venv/lib/python2.7/site-packages/cdr_processor/usecases/utils.py" />
       <jump line="47" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
       <jump line="58" column="9" filename="$USER_HOME$/src/plivocloud/plivo_cloud/phone/utils.py" />
@@ -350,10 +351,16 @@
       <jump line="34" column="104" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="520" column="23" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/models.py" />
       <jump line="24" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="771" column="4" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
+      <jump line="992" column="4" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
+      <jump line="1087" column="4" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
+      <jump line="461" column="27" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
+      <jump line="472" column="26" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
+      <jump line="567" column="48" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/db/models/fields/related.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, blank=True</text>
+        <text>recharge_below_amount</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -365,16 +372,16 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>, blank=True</text>
+        <text>recharge_below_amount</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>on_dele</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU21zQ29zdChtb2RlbHMuTW9kZWwpOgogICAgbWNjID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTYsIHZlcmJvc2VfbmFtZT0gXygnTW9iaWxlIGNvdW50cnkgY29kZSAoTUNDKScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBkYl9pbmRleD1UcnVlKQogICAgbW5jID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTYsIHZlcmJvc2VfbmFtZT0gXygnTW9iaWxlIG5ldHdvcmsgY29kZSAoTU5DKScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBkYl9pbmRleD1UcnVlKQogICAgY29zdCA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9MTAsIGRlZmF1bHQ9RGVjaW1hbCgnMCcpLCBoZWxwX3RleHQ9XygiQ29zdCBwZXIgU01TIikpCiAgICBwcm92aWRlciA9IG1vZGVscy5Gb3JlaWduS2V5KFByb3ZpZGVyKQoKICAgIGNyZWF0ZWQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vd19hZGQ9VHJ1ZSkKICAgIG1vZGlmaWVkID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3c9VHJ1ZSkKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIGRiX3RhYmxlID0gInNtc19jb3N0Igo=</text>
+        <text encoding="base64">ICAgIHJlY2hhcmdlX2Ftb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9NSwgZGVmYXVsdD1EZWNpbWFsKCcwJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjY291bnRfbGltaXQgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTUsIGRlZmF1bHQ9RGVjaW1hbCgnMCcpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,34 +396,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9Cg==</text>
+        <text encoding="base64">ICAgIGJhbGFuY2UgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1ldGEgPQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVmZmVjdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1jYyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD02LCB2ZXJib3NlX25hbWU9IF8oJ01vYmlsZSBjb3VudHJ5IGNvZGUgKE1DQyknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGJfaW5kZXg9VHJ1ZSkKICAgIG1uYyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD02LCB2ZXJib3NlX25hbWU9IF8oJ01vYmlsZSBuZXR3b3JrIGNvZGUgKE1OQyknKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGJfaW5kZXg9VHJ1ZSkKICAgIGNvc3QgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTEwLCBkZWZhdWx0PURlY2ltYWwoJzAnKSwgaGVscF90ZXh0PV8oIkNvc3QgcGVyIFNNUyIpKQogICAgcHJvdmlkZXIgPSBtb2RlbHMuRm9yZWlnbktleShQcm92aWRlcikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1jYyA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGFibGVfbmFtZSA9ICJzbXNfY29zdCIKCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>on_dele</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>on_dele</last-pattern>
       <last-replace>m</last-replace>
       <last-substitute>sysloghand</last-substitute>
       <last-dir>1</last-dir>
@@ -424,8 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>standard</entry>
-        <entry>1</entry>
         <entry>pricing</entry>
         <entry encoding="base64">XDxzdGRfcHJvZHVjdF9wbGFuXD4=</entry>
         <entry>phonenum</entry>
@@ -444,9 +449,10 @@
         <entry>index</entry>
         <entry>json</entry>
         <entry>status</entry>
+        <entry encoding="base64">XDxtYW55X3RvX29uZVw+</entry>
+        <entry>on_dele</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>651</entry>
         <entry>200</entry>
         <entry>280</entry>
@@ -465,6 +471,7 @@
         <entry>267</entry>
         <entry>266</entry>
         <entry>38</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
