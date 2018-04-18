@@ -13,12 +13,12 @@
         <mark key="." line="73" column="5" />
         <mark key="^" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524057996944">
-        <mark key="'" line="111" column="41" />
-        <mark key="[" line="111" column="50" />
-        <mark key="]" line="111" column="53" />
-        <mark key="^" line="111" column="53" />
-        <mark key="." line="111" column="53" />
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524059798911">
+        <mark key="'" line="110" column="41" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1502981876331">
         <mark key="[" line="0" column="0" />
@@ -95,6 +95,9 @@
         <mark key="'" line="520" column="23" />
         <mark key="[" line="451" column="0" />
         <mark key="]" line="455" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" timestamp="1524059780244">
+        <mark key="'" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1524056661107">
         <mark key="'" line="240" column="49" />
@@ -259,9 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2967" column="19" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="2997" column="37" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
-      <jump line="3100" column="43" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="3131" column="36" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="3259" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
       <jump line="109" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/views.py" />
@@ -359,10 +359,13 @@
       <jump line="89" column="39" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="119" column="27" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="111" column="41" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="28" column="31" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
+      <jump line="35" column="29" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
+      <jump line="42" column="18" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sweetwater.</text>
+        <text>account</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -374,10 +377,10 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>sweetwater.</text>
+        <text>account</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19maWVsZFw+</text>
+        <text>account</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZvaWNlX3VuaXRfcmF0ZSA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9NSwgZGVmYXVsdD1EZWNpbWFsKCcwLjAwMzAnKSkK</text>
@@ -423,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19maWVsZFw+</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19maWVsZFw+</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-replace />
       <last-substitute>_(</last-substitute>
       <last-dir>1</last-dir>
@@ -433,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Acc</entry>
         <entry>ACCOUNT</entry>
         <entry>index</entry>
         <entry>status</entry>
@@ -453,6 +455,7 @@
         <entry>CASCA</entry>
         <entry encoding="base64">XDxjcmVhdGVfYXV0aF9pZFw+</entry>
         <entry encoding="base64">XDx0b19maWVsZFw+</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>200</entry>
