@@ -13,12 +13,12 @@
         <mark key="." line="73" column="5" />
         <mark key="^" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524122801736">
-        <mark key="'" line="42" column="11" />
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-        <mark key="." line="44" column="19" />
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524124910557">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="54" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="44" column="64" />
+        <mark key="." line="44" column="54" />
       </file>
       <file name="/a.dummy" timestamp="1502981876331">
         <mark key="[" line="0" column="0" />
@@ -265,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="10" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="115" column="32" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
       <jump line="117" column="10" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
       <jump line="119" column="10" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
       <jump line="120" column="13" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
@@ -365,10 +363,12 @@
       <jump line="142" column="26" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
       <jump line="146" column="48" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
       <jump line="149" column="50" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
+      <jump line="6" column="9" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CharField</text>
+        <text>, null=True</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -380,7 +380,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>CharField</text>
+        <text>, null=True</text>
       </register>
       <register name="/" type="4">
         <text>passw</text>
