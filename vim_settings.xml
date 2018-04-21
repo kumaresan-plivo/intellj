@@ -13,12 +13,12 @@
         <mark key="." line="73" column="5" />
         <mark key="^" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524327769079">
-        <mark key="'" line="60" column="22" />
-        <mark key="[" line="149" column="42" />
-        <mark key="]" line="152" column="48" />
-        <mark key="^" line="152" column="48" />
-        <mark key="." line="152" column="48" />
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" timestamp="1524329850622">
+        <mark key="'" line="213" column="20" />
+        <mark key="[" line="201" column="14" />
+        <mark key="]" line="201" column="11" />
+        <mark key="." line="201" column="11" />
+        <mark key="^" line="201" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1502981876331">
         <mark key="[" line="0" column="0" />
@@ -83,6 +83,9 @@
       <file name="$USER_HOME$/src/plivocloud/build/lib/plivo_cloud/test_phone_verification_helper.py" timestamp="1524131346952">
         <mark key="'" line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/call_resource.py" timestamp="1524328828319">
+        <mark key="'" line="42" column="31" />
+      </file>
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_account/models.py" timestamp="1524055557271">
         <mark key="'" line="9" column="22" />
         <mark key="[" line="138" column="0" />
@@ -102,10 +105,10 @@
       <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" timestamp="1524059780244">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1524220448065">
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" timestamp="1524328857936">
         <mark key="'" line="79" column="4" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="339" column="72" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="55" />
       </file>
       <file name="/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logging/handlers.py" timestamp="1497944348205">
         <mark key="'" line="758" column="22" />
@@ -154,6 +157,13 @@
       </file>
       <file name="/Python Console" timestamp="1523129584587">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" timestamp="1524329724987">
+        <mark key="'" line="136" column="60" />
+        <mark key="[" line="130" column="46" />
+        <mark key="]" line="130" column="46" />
+        <mark key="." line="130" column="46" />
+        <mark key="^" line="130" column="46" />
       </file>
       <file name="$USER_HOME$/src/caprica/caprica/settings/staging.py" timestamp="1480009530356">
         <mark key="'" line="33" column="25" />
@@ -267,26 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="37" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="194" column="14" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="199" column="49" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="207" column="56" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="221" column="78" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="228" column="52" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="236" column="56" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="251" column="75" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="259" column="49" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/internal_api.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/urls.py" />
-      <jump line="100" column="51" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/urls.py" />
-      <jump line="540" column="48" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="149" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="588" column="41" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="717" column="49" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="474" column="25" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="457" column="105" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="553" column="24" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="16" column="42" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
-      <jump line="126" column="36" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_incoming/models.py" />
       <jump line="19" column="33" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
       <jump line="0" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/users/admin.py" />
       <jump line="103" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
@@ -344,14 +334,11 @@
       <jump line="122" column="4" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="89" column="39" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="119" column="27" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
-      <jump line="111" column="41" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="28" column="31" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
       <jump line="35" column="29" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
       <jump line="42" column="18" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0002_auto_20180418_1338.py" />
       <jump line="105" column="14" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
-      <jump line="109" column="11" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="4" column="43" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
-      <jump line="42" column="11" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="330" column="14" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
       <jump line="360" column="14" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
       <jump line="391" column="31" filename="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" />
@@ -367,10 +354,33 @@
       <jump line="60" column="22" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
       <jump line="74" column="95" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" />
       <jump line="79" column="4" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_logs/models.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="150" column="62" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="159" column="66" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="42" column="31" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/call_resource.py" />
+      <jump line="33" column="24" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="109" column="8" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="110" column="10" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="111" column="11" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="141" column="27" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="24" column="36" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="97" column="27" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="19" column="35" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="20" column="36" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="37" column="35" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="38" column="36" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="115" column="25" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="130" column="43" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="63" column="79" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="69" column="60" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="136" column="60" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
+      <jump line="213" column="20" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IsLcr</text>
+        <text>PositiveIntegerField</text>
       </register>
       <register name="c" type="4">
         <text>'</text>
@@ -382,16 +392,16 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>IsLcr</text>
+        <text>PositiveIntegerField</text>
       </register>
       <register name="/" type="4">
-        <text>call_st</text>
+        <text>Posit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgQmFsYW5jZShtb2RlbHMuTW9kZWwpOgogICAgYWNjb3VudF9pZCA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKSAgIyBhdm9pZCBmb3JlaWduIGtleXMKICAgIGJhbGFuY2UgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTUsIGRlZmF1bHQ9RGVjaW1hbCgnMCcpKQogICAgdGFnID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBzaG91bGRfYXV0b19yZWNoYXJnZSA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkKICAgIHRvcHVwX2Ftb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9NSwgZGVmYXVsdD1EZWNpbWFsKCcwJykpCiAgICB0aHJlc2hvbGRfYW1vdW50ID0gbW9kZWxzLkRlY2ltYWxGaWVsZChtYXhfZGlnaXRzPTY0LCBkZWNpbWFsX3BsYWNlcz01LCBkZWZhdWx0PURlY2ltYWwoJzEwLjAwJykpCiAgICBzdGF0dXMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAsIGNob2ljZXM9QkFMQU5DRV9TVEFUVVMsIGRlZmF1bHQ9IkFDVElWRSIpCgogICAgY3JlYXRlZCA9IG1vZGVscy5EYXRlVGltZUZpZWxkKGF1dG9fbm93X2FkZD1UcnVlKQogICAgbW9kaWZpZWQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vdz1UcnVlKQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgZGJfdGFibGUgPSAiYmFsYW5jZSIK</text>
+        <text encoding="base64">ICAgIHNtc19mbGF0X3JhdGUgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTUsIGRlZmF1bHQ9RGVjaW1hbCgnMC4wMDMwJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhbGFuY2UgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTUsIGRlZmF1bHQ9RGVjaW1hbCgnMCcpKQogICAgdGFnID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBzaG91bGRfYXV0b19yZWNoYXJnZSA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkKICAgIHRvcHVwX2Ftb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9NSwgZGVmYXVsdD1EZWNpbWFsKCcwJykpCiAgICB0aHJlc2hvbGRfYW1vdW50ID0gbW9kZWxzLkRlY2ltYWxGaWVsZChtYXhfZGlnaXRzPTY0LCBkZWNpbWFsX3BsYWNlcz01LCBkZWZhdWx0PURlY2ltYWwoJzEwLjAwJykpCiAgICBzdGF0dXMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAsIGNob2ljZXM9QkFMQU5DRV9TVEFUVVMsIGRlZmF1bHQ9IkFDVElWRSIpCg==</text>
+        <text encoding="base64">ICAgIHN0YXQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -403,50 +413,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhbGFuY2UgPSBtb2RlbHMuRGVjaW1hbEZpZWxkKG1heF9kaWdpdHM9NjQsIGRlY2ltYWxfcGxhY2VzPTUsIGRlZmF1bHQ9RGVjaW1hbCgnMCcpKQogICAgdGFnID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwLCBibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBzaG91bGRfYXV0b19yZWNoYXJnZSA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkKICAgIHRvcHVwX2Ftb3VudCA9IG1vZGVscy5EZWNpbWFsRmllbGQobWF4X2RpZ2l0cz02NCwgZGVjaW1hbF9wbGFjZXM9NSwgZGVmYXVsdD1EZWNpbWFsKCcwJykpCiAgICB0aHJlc2hvbGRfYW1vdW50ID0gbW9kZWxzLkRlY2ltYWxGaWVsZChtYXhfZGlnaXRzPTY0LCBkZWNpbWFsX3BsYWNlcz01LCBkZWZhdWx0PURlY2ltYWwoJzEwLjAwJykpCiAgICBzdGF0dXMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTAsIGNob2ljZXM9QkFMQU5DRV9TVEFUVVMsIGRlZmF1bHQ9IkFDVElWRSIpCgogICAgY3JlYXRlZCA9IG1vZGVscy5EYXRlVGltZUZpZWxkKGF1dG9fbm93X2FkZD1UcnVlKQogICAgbW9kaWZpZWQgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChhdXRvX25vdz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGNsb3VkX3VuaXRfcmF0ZSA9IG1vZGVscy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW9yaXR5ID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBpc19sY3IgPSBtb2RlbHMuQm9vbGVhbkZpZWxkKCkKICAgIG1hbnVhbF9vdmVycmlkZV9yb3V0ZSA9IG1vZGVscy5Cb29sZWFuRmllbGQoKQogICAgYXBpX3N1Y2Nlc3NfcmF0ZSA9IG1vZGVscy5JbnRlZ2VyRmllbGQoKQogICAgZGVsaXZlcnlfc3VjY2Vzc19yYXRlID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBhdmVyYWdlX2RlbGl2ZXJ5X3RpbWUgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpkZWYgY3JlYXRlX2F1dGhfaWQoKToKICAgIHJldHVybiAnTUEnICsgc3RyKHV1aWQudXVpZDQoKSkucmVwbGFjZSgnLScsICcnKS51cHBlcigpCgoKZGVmIGNyZWF0ZV9hdXRoX3Rva2VuKCk6CiAgICByZXR1cm4gc2VjcmV0cy50b2tlbl9oZXgoMzQpLnVwcGVyKCkK</text>
+        <text encoding="base64">RElSRUNUSU9OX0NIT0lDRVMgPSAoCiAgICAoImluYm91bmQiLCBfKHUiSW5ib3VuZCIpKSwKICAgICgib3V0Ym91bmQiLCBfKHUiT3V0Ym91bmQiKSksCikKCk1FU1NBR0VfU1RBVEVfQ0hPSUNFUyA9ICgKKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dGhfaWQgPSB1dWlkLnV1aWQ0KCkK</text>
+        <text encoding="base64">ICAgICgiUVVFVUVEIiwgdSJRdWV1ZWQiKSwKICAgICgiREVMSVZFUkVEIiwgdSJERUxJVkVSRUQiKSwKICAgICgiRkFJTEVEIiwgdSJGQUlMRUQiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjY291bnRfdHlwZSA9IG1vZGVscy5DaGFyRmllbGQoYmxhbms9RmFsc2UsIG1heF9sZW5ndGg9MjApCiAgICBhdXRoX2lkID0gbW9kZWxzLlRleHRGaWVsZChfKCdhdXRoIGlkJyksIG1heF9sZW5ndGg9NTAsIHVuaXF1ZT1UcnVlLCBibGFuaz1GYWxzZSwgbnVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ9Y3JlYXRlX2F1dGhfaWQsIGRiX2luZGV4PVRydWUpCiAgICBhdXRoX3Rva2VuID0gbW9kZWxzLlRleHRGaWVsZChfKCdhdXRoIHRva2VuJyksIG1heF9sZW5ndGg9NTAsIHVuaXF1ZT1UcnVlLCBibGFuaz1GYWxzZSwgbnVsbD1GYWxzZSwgZGVmYXVsdD1jcmVhdGVfYXV0aF90b2tlbikKICAgIGFkZHJlc3MgPSBKU09ORmllbGQobnVsbD1GYWxzZSkKICAgIHRpbWV6b25lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTEwMCwgZGVmYXVsdD0nVVRDJywgYmxhbms9VHJ1ZSwgbnVsbD1UcnVlKQogICAgY291bnRyeSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yLCBibGFuaz1GYWxzZSkKICAgIHN0YXR1cyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0xMCwgY2hvaWNlcz1QUk9WSURFUl9TVEFUVVMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlbHBfdGV4dD0iQ3VycmVudCBzdGF0dXMgb2YgdGhlIGNhcnJpZXIiKQogICAgbWV0YSA9IEpTT05GaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUpCiAgICBwbGFuID0gbW9kZWxzLk9uZVRvT25lRmllbGQoUGxhbiwgdG89UGxhbikK</text>
+        <text encoding="base64">ICAgICgiZmFpbGVkIiwgXyh1IkZhaWxlZCIpKSwKICAgICgic2VudCIsIF8odSJTZW50IikpLAogICAgKCJkZWxpdmVyZWQiLCBfKHUiRGVsaXZlcmVkIikpLAogICAgKCJ1bmRlbGl2ZXJlZCIsIF8odSJVbmRlbGl2ZXJlZCIpKSwKICAgICgicmVqZWN0ZWQiLCBfKHUiVXBzdHJlYW0gUmVqZWN0ZWQiKSksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGNvdW50cnlfaXNvID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMsIGJsYW5rPVRydWUsIG51bGw9VHJ1ZSwgZGVmYXVsdD1Ob25lKQogICAgIyBJdCBzaG91bGQgYmUgYWRkZWQgZm9yIEVycm9yIGNvZGUgbG9va3VwCiAgICBleHRyYV9kYXRhID0gbW9kZWxzLlRleHRGaWVsZChibGFuaz1UcnVlLCBudWxsPVRydWUsIGRlZmF1bHQ9Tm9uZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWV6b25lID0gbW9kZWxzLgo=</text>
+        <text encoding="base64">ICAgIGNhcnJpZXJfZXJyb3JfY29kZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMCwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call_st</last-search>
+      <last-search>Posit</last-search>
       <last-offset />
-      <last-pattern>call_st</last-pattern>
+      <last-pattern>Posit</last-pattern>
       <last-replace />
       <last-substitute>_(</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>JSON</entry>
-        <entry>json</entry>
-        <entry>home</entry>
-        <entry>_(</entry>
-        <entry encoding="base64">XDxESVJFQ1RJT05fQ0hPSUNFU1w+</entry>
-        <entry>defau</entry>
         <entry encoding="base64">XDxQUk9WSURFUl9TVEFUVVNcPg==</entry>
         <entry>apps</entry>
         <entry>man</entry>
@@ -461,6 +465,12 @@
         <entry>Rel</entry>
         <entry encoding="base64">XDxGb3JlaWduS2V5XD4=</entry>
         <entry>call_st</entry>
+        <entry encoding="base64">XDxNRFJfSU5URVJOQUxfU1RBVFVTXD4=</entry>
+        <entry>unit</entry>
+        <entry encoding="base64">XDxzbXNfc3RhdFw+</entry>
+        <entry>datetim</entry>
+        <entry>timezone.now</entry>
+        <entry>Posit</entry>
       </history-search>
       <history-cmd>
         <entry>200</entry>
