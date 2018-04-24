@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/carrier_util.py" timestamp="1499352403885">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" timestamp="1513261749705">
-        <mark key="'" line="139" column="106" />
+      <file name="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" timestamp="1524577262127">
+        <mark key="'" line="220" column="79" />
       </file>
       <file name="$USER_HOME$/src/sweetwater/venv/lib/python3.6/site-packages/django/contrib/auth/models.py" timestamp="1524122836443">
         <mark key="'" line="149" column="50" />
@@ -277,15 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="33" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/sweetwater/sweetwater/users/admin.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="234" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="237" column="6" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="233" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/src/sweetwater/config/settings/base.py" />
-      <jump line="41" column="24" filename="$USER_HOME$/src/sweetwater/sweetwater/users/models.py" />
       <jump line="941" column="45" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="993" column="74" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_billing/models.py" />
       <jump line="376" column="0" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_carrier/models.py" />
@@ -377,6 +368,15 @@
       <jump line="69" column="60" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
       <jump line="136" column="60" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/migrations/0006_auto_20180421_1648.py" />
       <jump line="213" column="20" filename="$USER_HOME$/src/sweetwater/sweetwater/scripts/models.py" />
+      <jump line="234" column="20" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="40" column="36" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="49" column="34" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="54" column="25" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="201" column="36" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="206" column="40" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="217" column="53" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="219" column="103" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
+      <jump line="220" column="79" filename="$USER_HOME$/src/plivocloud/plivo_cloud/plivo_api/endpoint_resource.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,7 +395,7 @@
         <text>arent_message_uuid</text>
       </register>
       <register name="/" type="4">
-        <text>Posit</text>
+        <text encoding="base64">XDx1c2VybmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBhcmVudF9tZXNzYWdlX3V1aWQgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1LCBibGFuaz1UcnVlLCBudWxsPVRydWUpCg==</text>
@@ -441,19 +441,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Posit</last-search>
+      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>Posit</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
       <last-replace />
       <last-substitute>_(</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQUk9WSURFUl9TVEFUVVNcPg==</entry>
-        <entry>apps</entry>
-        <entry>man</entry>
         <entry encoding="base64">XDxvbl9kZWxldGVcPg==</entry>
         <entry>CASCA</entry>
         <entry encoding="base64">XDxjcmVhdGVfYXV0aF9pZFw+</entry>
@@ -471,6 +468,9 @@
         <entry>datetim</entry>
         <entry>timezone.now</entry>
         <entry>Posit</entry>
+        <entry>subscrib</entry>
+        <entry>userna</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>200</entry>
